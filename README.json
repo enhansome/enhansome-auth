@@ -1,0 +1,1178 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Authelia",
+          "description": "The Single Sign-On Multi-Factor portal for web apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-14T02:22:29Z",
+            "owner": "authelia",
+            "repo": "authelia",
+            "stars": 28549
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZITADEL",
+          "description": "Cloud-native Identity & Access Management platform for secure authentication, authorization and identity management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T17:20:05Z",
+            "owner": "zitadel",
+            "repo": "zitadel",
+            "stars": 14721
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Logto",
+          "description": "An IAM infrastructure with AuthN, AuthZ, MFA, SSO, user management, and multi-tenancy features, supporting OAuth 2.0, OIDC, and SAML.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T03:28:16Z",
+            "owner": "logto-io",
+            "repo": "logto",
+            "stars": 14341
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Casdoor",
+          "description": "UI-first centralized authentication / Single-Sign-On (SSO) platform supporting OAuth 2.0 / OIDC and SAML.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T15:25:17Z",
+            "owner": "casdoor",
+            "repo": "casdoor",
+            "stars": 14185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NanoIDP",
+          "description": "Local development Identity Provider for testing OAuth2, OpenID Connect, and SAML flows without running a full IAM stack.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-18T22:44:37Z",
+            "owner": "cdelmonte-zg",
+            "repo": "nanoidp",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "SSO (Single-Sign-On), IAM (Identity Access Management)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Authentication"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AspNet.Security.OAuth.Providers",
+          "description": "OAuth2 social authentication providers for ASP.NET Core.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T06:46:32Z",
+            "owner": "aspnet-contrib",
+            "repo": "AspNet.Security.OAuth.Providers",
+            "stars": 2510
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kentor Authentication Services",
+          "description": "Saml2 authentication services for ASP.NET.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-21T17:53:09Z",
+            "owner": "Sustainsys",
+            "repo": "Saml2",
+            "stars": 1008
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OwinOAuthProviders",
+          "description": "OAuth providers for Owin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-04-15T15:33:42Z",
+            "owner": "TerribleDev",
+            "repo": "OwinOAuthProviders",
+            "stars": 497
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AspNetSaml",
+          "description": "SAML library for ASP.NET Core",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-25T10:01:57Z",
+            "owner": "jitbit",
+            "repo": "AspNetSaml",
+            "stars": 421
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SimpleAuthentication",
+          "description": "ASP.NET library that makes it really easy and simple for developers to add social authentication to an ASP.NET application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-02-22T09:58:04Z",
+            "owner": "SimpleAuthentication",
+            "repo": "SimpleAuthentication",
+            "stars": 287
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IdentityServer4",
+          "description": "OpenID Connect & OAuth 2.0 framework for ASP.NET Core.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2025-03-06T09:29:02Z",
+            "owner": "DuendeArchive",
+            "repo": "IdentityServer4",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Authgear SDK for Xamarin",
+          "description": "You can easily integrate authentication features into your Xamarin apps. In most cases, it involves just a few lines of code to enable multiple authentication methods.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-11-04T12:04:41Z",
+            "owner": "authgear",
+            "repo": "authgear-sdk-xamarin",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "C#"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ory Hydra",
+          "description": "OpenID Connect certified OAuth2 server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-29T09:30:11Z",
+            "owner": "ory",
+            "repo": "hydra",
+            "stars": 17475
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZITADEL",
+          "description": "Cloud-native Identity & Access Management platform for secure authentication, authorization and identity management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T17:20:05Z",
+            "owner": "zitadel",
+            "repo": "zitadel",
+            "stars": 14721
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Casdoor",
+          "description": "UI-first centralized authentication / Single-Sign-On (SSO) platform supporting OAuth 2.0 / OIDC and SAML.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T15:25:17Z",
+            "owner": "casdoor",
+            "repo": "casdoor",
+            "stars": 14185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ory Kratos",
+          "description": "API-first Identity and User Management system built for cloud applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-29T09:30:37Z",
+            "owner": "ory",
+            "repo": "kratos",
+            "stars": 13828
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ory Oathkeeper",
+          "description": "Identity/Access proxy inspired by the BeyondCorp/Zero-Trust white paper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-27T15:23:59Z",
+            "owner": "ory",
+            "repo": "oathkeeper",
+            "stars": 3593
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ory Fosite",
+          "description": "Extensible OAuth 2.0 and OpenID Connect SDK for Golang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-11-20T01:13:40Z",
+            "owner": "ory",
+            "repo": "fosite",
+            "stars": 2605
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OIDC",
+          "description": "OpenID Connect Library (client and server) for Go",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T19:44:11Z",
+            "owner": "zitadel",
+            "repo": "oidc",
+            "stars": 1865
+          }
+        }
+      ],
+      "title": "Golang"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Spring Security OAuth",
+          "description": "Provides support for using Spring Security with OAuth (1a) and OAuth2.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2022-05-30T20:10:19Z",
+            "owner": "spring-attic",
+            "repo": "spring-security-oauth",
+            "stars": 4690
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Apache Shiro",
+          "description": "Powerful and easy-to-use Java security framework that performs authentication, authorization, cryptography, and session management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-11T18:13:59Z",
+            "owner": "apache",
+            "repo": "shiro",
+            "stars": 4452
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pac4j",
+          "description": "Security engine for Java (authentication, authorization, multi frameworks): OAuth, CAS, SAML, OpenID Connect, LDAP, JWT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-11T01:29:59Z",
+            "owner": "pac4j",
+            "repo": "pac4j",
+            "stars": 2520
+          }
+        }
+      ],
+      "title": "Java"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Passport",
+          "description": "Simple, unobtrusive authentication for Node.js. A comprehensive set of strategies support authentication using a username and password, Facebook, Twitter, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-16T21:56:14Z",
+            "owner": "jaredhanson",
+            "repo": "passport",
+            "stars": 23531
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bell",
+          "description": "Third-party authentication plugin for hapi. Ships with built-in support for various well-known sites and simple configuration object will support other OAuth 1.0a and OAuth 2.0 sites.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-03-12T12:09:23Z",
+            "owner": "hapijs",
+            "repo": "bell",
+            "stars": 618
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "client-certificate-auth",
+          "description": "Mutual TLS (mTLS) client certificate authentication middleware for Node.js with reverse proxy support, composable verification callbacks, and X.509 certificate parsing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T15:32:26Z",
+            "owner": "tgies",
+            "repo": "client-certificate-auth",
+            "stars": 80
+          }
+        }
+      ],
+      "title": "Node.js"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Authomatic",
+          "description": "Simple yet powerful authorization & authentication client library for Python web applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-12T08:28:51Z",
+            "owner": "authomatic",
+            "repo": "authomatic",
+            "stars": 1053
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python Social Auth",
+          "description": "Easy to setup social authentication/registration mechanism with support for several frameworks and auth providers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:16:59Z",
+            "owner": "python-social-auth",
+            "repo": "social-core",
+            "stars": 918
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keystone",
+          "description": "Provides authentication, authorization and service discovery mechanisms via HTTP primarily for use by projects in the OpenStack family.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T21:43:25Z",
+            "owner": "openstack",
+            "repo": "keystone",
+            "stars": 716
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Raider",
+          "description": "Web authentication testing framework, which treats the authentication process as finite state machines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-20T11:56:34Z",
+            "owner": "OWASP",
+            "repo": "raider",
+            "stars": 101
+          }
+        }
+      ],
+      "title": "Python"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Authorization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AndPermission",
+          "description": "Android runtime permission, support the right to apply for permission at any place.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-01-04T06:43:43Z",
+            "owner": "yanzhenjie",
+            "repo": "AndPermission",
+            "stars": 6627
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Authgear SDK for Android",
+          "description": "Android SDK to authenticate and authorize users based on the OAuth 2.0 authorization framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T04:55:06Z",
+            "owner": "authgear",
+            "repo": "authgear-sdk-android",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Android"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Casbin",
+          "description": "Authorization library that supports access control models like ACL, RBAC, ABAC in Golang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T07:16:17Z",
+            "owner": "apache",
+            "repo": "casbin",
+            "stars": 20322
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZITADEL",
+          "description": "Cloud-native Identity & Access Management platform for secure authentication, authorization and identity management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T17:20:05Z",
+            "owner": "zitadel",
+            "repo": "zitadel",
+            "stars": 14721
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpiceDB",
+          "description": "Open-source implementation of the Zanzibar paper, a performant database for fine-grained permissions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T18:45:31Z",
+            "owner": "authzed",
+            "repo": "spicedb",
+            "stars": 6960
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ory Keto",
+          "description": "Access control server capable of solving complex use cases (multi-tenant, attribute-based access control, etc.) with access control policies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-03T03:44:50Z",
+            "owner": "ory",
+            "repo": "keto",
+            "stars": 5387
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Oso",
+          "description": "Batteries-included framework for building authorization in your Go application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-02-26T16:59:39Z",
+            "owner": "osohq",
+            "repo": "oso",
+            "stars": 3492
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ladon",
+          "description": "SDK for access control policies: authorization for the microservice and IoT age.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-10-22T16:06:57Z",
+            "owner": "ory",
+            "repo": "ladon",
+            "stars": 2459
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OIDC",
+          "description": "OpenID Connect Library (client and server) for Go",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T19:44:11Z",
+            "owner": "zitadel",
+            "repo": "oidc",
+            "stars": 1865
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "goRBAC",
+          "description": "Lightweight role-based access control implementation in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-21T00:28:11Z",
+            "owner": "mikespook",
+            "repo": "gorbac",
+            "stars": 1673
+          }
+        }
+      ],
+      "title": "Golang"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Oso",
+          "description": "Batteries-included framework for building authorization in your Rust application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-02-26T16:59:39Z",
+            "owner": "osohq",
+            "repo": "oso",
+            "stars": 3492
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Casbin-Rs",
+          "description": "Authorization library that supports access control models like ACL, RBAC, ABAC in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T06:03:25Z",
+            "owner": "apache",
+            "repo": "casbin-rs",
+            "stars": 1130
+          }
+        }
+      ],
+      "title": "Rust"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Permission",
+          "description": "Unified API to ask for permissions on iOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2022-07-11T12:29:45Z",
+            "owner": "delba",
+            "repo": "Permission",
+            "stars": 2892
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Authgear SDK for iOS",
+          "description": "With Authgear SDK for iOS, you can easily integrate authorization features into your iOS apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-12T04:54:38Z",
+            "owner": "authgear",
+            "repo": "authgear-sdk-ios",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "iOS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Apache Shiro",
+          "description": "Powerful and easy-to-use Java security framework that performs authentication, authorization, cryptography, and session management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-11T18:13:59Z",
+            "owner": "apache",
+            "repo": "shiro",
+            "stars": 4452
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Oso",
+          "description": "Batteries-included framework for building authorization in your Java application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-02-26T16:59:39Z",
+            "owner": "osohq",
+            "repo": "oso",
+            "stars": 3492
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jCasbin",
+          "description": "Authorization library that supports access control models like ACL, RBAC, ABAC in Java.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T03:26:53Z",
+            "owner": "apache",
+            "repo": "casbin-jcasbin",
+            "stars": 2653
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pac4j",
+          "description": "Security engine for Java (authentication, authorization, multi-frameworks): OAuth, CAS, SAML, OpenID Connect, LDAP, JWT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-11T01:29:59Z",
+            "owner": "pac4j",
+            "repo": "pac4j",
+            "stars": 2520
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TOTP Server-Side Library",
+          "description": "TOTP server-side library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T19:04:58Z",
+            "owner": "wstrange",
+            "repo": "GoogleAuth",
+            "stars": 1108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AT&T XACML",
+          "description": "XACML 3.0 implementation from AT&T.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-09-05T12:41:51Z",
+            "owner": "att",
+            "repo": "xacml-3.0",
+            "stars": 26
+          }
+        }
+      ],
+      "title": "Java"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Oso",
+          "description": "Batteries-included framework for building authorization in your Node.js application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-02-26T16:59:39Z",
+            "owner": "osohq",
+            "repo": "oso",
+            "stars": 3492
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Node-Casbin",
+          "description": "Authorization library that supports access control models like ACL, RBAC, ABAC in Node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T06:03:33Z",
+            "owner": "apache",
+            "repo": "casbin-node-casbin",
+            "stars": 2913
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "accesscontrol",
+          "description": "Role and attribute-based access control for Node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T04:55:50Z",
+            "owner": "onury",
+            "repo": "accesscontrol",
+            "stars": 2325
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RBAC",
+          "description": "Hierarchical role-based access control for Node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-28T19:49:59Z",
+            "owner": "seeden",
+            "repo": "rbac",
+            "stars": 1002
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pundit-ts",
+          "description": "Fully type-safe authorization library inspired by awesome pundit gem. Can be used for RBAC, ABAC access control models or any other model you wish.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-10-22T18:22:25Z",
+            "owner": "fatihky",
+            "repo": "pundit-ts",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ABAC",
+          "description": "Attribute-based access control for Node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2014-03-04T03:01:52Z",
+            "owner": "vovantics",
+            "repo": "abac",
+            "stars": 29
+          }
+        }
+      ],
+      "title": "Node.js"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "laravel-permission",
+          "description": "Allows you to manage user permissions and roles in a database.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-03T21:33:47Z",
+            "owner": "spatie",
+            "repo": "laravel-permission",
+            "stars": 12957
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PHP-Casbin",
+          "description": "Authorization library that supports access control models like ACL, RBAC, ABAC in PHP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T03:09:39Z",
+            "owner": "php-casbin",
+            "repo": "php-casbin",
+            "stars": 1335
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PHP-RBAC",
+          "description": "Authorization library for PHP which provides developers with NIST Level 2 hierarchical role-based access control.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-04-19T19:45:07Z",
+            "owner": "OWASP",
+            "repo": "rbac",
+            "stars": 436
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "php-abac",
+          "description": "Attribute-based access control library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2019-07-23T13:08:54Z",
+            "owner": "CraftCamp",
+            "repo": "php-abac",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ezRbac",
+          "description": "Simple yet easy to implement role-based access control library for popular PHP framework: Codeigniter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2019-02-06T01:28:45Z",
+            "owner": "xiidea",
+            "repo": "ezRbac",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "symfony-logical-authorization-bundle",
+          "description": "This Symfony bundle provides a unifying solution for authorization that aims to be flexible, convenient and consistent.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-12-26T20:15:23Z",
+            "owner": "ordermind",
+            "repo": "symfony-logical-authorization-bundle",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "logical-permissions-php",
+          "description": "This is a generic library that provides support for array-based permissions with logic gates such as AND and OR.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-01-06T10:44:36Z",
+            "owner": "ordermind",
+            "repo": "logical-permissions-php",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "PHP"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Oso",
+          "description": "Batteries-included framework for building authorization in your Python application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-02-26T16:59:39Z",
+            "owner": "osohq",
+            "repo": "oso",
+            "stars": 3492
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyCasbin",
+          "description": "Authorization library that supports access control models like ACL, RBAC, ABAC in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T05:58:49Z",
+            "owner": "apache",
+            "repo": "casbin-pycasbin",
+            "stars": 1759
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flask-RBAC",
+          "description": "Adds RBAC support to Flask.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-20T22:46:45Z",
+            "owner": "shonenada",
+            "repo": "flask-rbac",
+            "stars": 233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vakt",
+          "description": "Attribute-based access control (ABAC) SDK for Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-02T10:30:18Z",
+            "owner": "kolotaev",
+            "repo": "vakt",
+            "stars": 194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "casbin-fastapi-decorator",
+          "description": "Decorator-based authorization for FastAPI using PyCasbin, providing per-route permissions with no middleware and support for JWT, async SQLAlchemy, and Casdoor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T05:21:48Z",
+            "owner": "Neko1313",
+            "repo": "casbin-fastapi-decorator",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Python"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Pundit",
+          "description": "Minimal authorization through OO design and pure Ruby classes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-02T10:26:35Z",
+            "owner": "varvet",
+            "repo": "pundit",
+            "stars": 8520
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CanCanCan",
+          "description": "Authorization for Ruby on Rails.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-09T13:29:52Z",
+            "owner": "CanCanCommunity",
+            "repo": "cancancan",
+            "stars": 5688
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Oso",
+          "description": "Batteries-included framework for building authorization in your Ruby application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-02-26T16:59:39Z",
+            "owner": "osohq",
+            "repo": "oso",
+            "stars": 3492
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Casbin",
+          "description": "Authorization library that supports access control models like ACL, RBAC, ABAC in Ruby.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-05-18T06:22:56Z",
+            "owner": "CasbinRuby",
+            "repo": "casbin-ruby",
+            "stars": 67
+          }
+        }
+      ],
+      "title": "Ruby"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Composio",
+          "description": "Hosted integration platform with managed OAuth and tool calling for 1000+ apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T20:13:37Z",
+            "owner": "ComposioHQ",
+            "repo": "composio",
+            "stars": 29682
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nango",
+          "description": "Open-source OAuth and API key handling for 700+ APIs with token refresh and a unified API for agent workloads.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T20:06:33Z",
+            "owner": "NangoHQ",
+            "repo": "nango",
+            "stars": 11447
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arcade",
+          "description": "Tool-calling platform with user approvals and authenticated actions for AI agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T01:33:58Z",
+            "owner": "ArcadeAI",
+            "repo": "arcade-mcp",
+            "stars": 1003
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "authsome",
+          "description": "Local-first credential broker for AI agents with an encrypted local vault and HTTPS proxy injection; no hosted service required.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-24T23:13:46Z",
+            "owner": "agentrhq",
+            "repo": "authsome",
+            "stars": 79
+          }
+        }
+      ],
+      "title": "AI Agent Auth"
+    },
+    {
+      "description": "PR is welcomed.",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "This project is licensed under the CC0-1.0 license.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T03:31:21.285Z",
+    "original_repository": "casdoor/awesome-auth",
+    "original_repository_sha": "0a0c058034c23579360c62394128c2162494b8ad",
+    "enhanced_repository": "enhansome/enhansome-auth",
+    "enhanced_repository_description": null,
+    "title": "Awesome Authentication & Authorization & SSO & IAM with stars"
+  }
+}

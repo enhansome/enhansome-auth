@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T02:24:46Z",
+            "last_commit": "2026-08-16T00:53:06Z",
             "owner": "authelia",
             "repo": "authelia",
-            "stars": 28556
+            "stars": 28570
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-14T11:13:42Z",
             "owner": "zitadel",
             "repo": "zitadel",
-            "stars": 14726
+            "stars": 14731
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T00:03:50Z",
+            "last_commit": "2026-08-16T02:15:37Z",
             "owner": "logto-io",
             "repo": "logto",
-            "stars": 14345
+            "stars": 14353
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-08-13T15:25:17Z",
             "owner": "casdoor",
             "repo": "casdoor",
-            "stars": 14191
+            "stars": 14203
           }
         },
         {
@@ -199,7 +199,7 @@
             "last_commit": "2026-07-29T09:30:11Z",
             "owner": "ory",
             "repo": "hydra",
-            "stars": 17477
+            "stars": 17478
           }
         },
         {
@@ -213,7 +213,7 @@
             "last_commit": "2026-08-14T11:13:42Z",
             "owner": "zitadel",
             "repo": "zitadel",
-            "stars": 14726
+            "stars": 14731
           }
         },
         {
@@ -227,7 +227,7 @@
             "last_commit": "2026-08-13T15:25:17Z",
             "owner": "casdoor",
             "repo": "casdoor",
-            "stars": 14191
+            "stars": 14203
           }
         },
         {
@@ -241,7 +241,7 @@
             "last_commit": "2026-07-29T09:30:37Z",
             "owner": "ory",
             "repo": "kratos",
-            "stars": 13827
+            "stars": 13829
           }
         },
         {
@@ -314,7 +314,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-11T18:13:59Z",
+            "last_commit": "2026-08-15T15:37:10Z",
             "owner": "apache",
             "repo": "shiro",
             "stars": 4450
@@ -351,7 +351,7 @@
             "last_commit": "2024-08-16T21:56:14Z",
             "owner": "jaredhanson",
             "repo": "passport",
-            "stars": 23530
+            "stars": 23529
           }
         },
         {
@@ -410,7 +410,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T02:17:37Z",
+            "last_commit": "2026-08-15T05:09:11Z",
             "owner": "python-social-auth",
             "repo": "social-core",
             "stars": 918
@@ -491,6 +491,40 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Cerbos",
+          "description": "Open-source authorization layer with a .NET SDK for RBAC, ABAC, and PBAC policies evaluated at runtime.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T08:02:20Z",
+            "owner": "cerbos",
+            "repo": "cerbos",
+            "stars": 4541
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Casbin.NET",
+          "description": "Authorization library that supports access control models like ACL, RBAC, ABAC in .NET (C#).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-15T14:45:47Z",
+            "owner": "apache",
+            "repo": "casbin-Casbin.NET",
+            "stars": 1329
+          }
+        }
+      ],
+      "title": "C#"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
           "title": "Casbin",
           "description": "Authorization library that supports access control models like ACL, RBAC, ABAC in Golang.",
           "children": [],
@@ -500,7 +534,7 @@
             "last_commit": "2026-08-13T07:16:17Z",
             "owner": "apache",
             "repo": "casbin",
-            "stars": 20320
+            "stars": 20322
           }
         },
         {
@@ -514,7 +548,7 @@
             "last_commit": "2026-08-14T11:13:42Z",
             "owner": "zitadel",
             "repo": "zitadel",
-            "stars": 14726
+            "stars": 14731
           }
         },
         {
@@ -528,7 +562,7 @@
             "last_commit": "2026-08-10T18:45:31Z",
             "owner": "authzed",
             "repo": "spicedb",
-            "stars": 6962
+            "stars": 6963
           }
         },
         {
@@ -543,6 +577,20 @@
             "owner": "ory",
             "repo": "keto",
             "stars": 5387
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cerbos",
+          "description": "Open-source authorization layer with a Go SDK for RBAC, ABAC, and PBAC policies evaluated at runtime.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T08:02:20Z",
+            "owner": "cerbos",
+            "repo": "cerbos",
+            "stars": 4541
           }
         },
         {
@@ -609,6 +657,20 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Cerbos",
+          "description": "Open-source authorization layer with a Rust SDK for RBAC, ABAC, and PBAC policies evaluated at runtime.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T08:02:20Z",
+            "owner": "cerbos",
+            "repo": "cerbos",
+            "stars": 4541
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Oso",
           "description": "Batteries-included framework for building authorization in your Rust application.",
           "children": [],
@@ -632,7 +694,7 @@
             "last_commit": "2026-08-13T06:03:25Z",
             "owner": "apache",
             "repo": "casbin-rs",
-            "stars": 1130
+            "stars": 1132
           }
         }
       ],
@@ -677,13 +739,27 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Cerbos",
+          "description": "Open-source authorization layer with a Java SDK for RBAC, ABAC, and PBAC policies evaluated at runtime.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T08:02:20Z",
+            "owner": "cerbos",
+            "repo": "cerbos",
+            "stars": 4541
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Apache Shiro",
           "description": "Powerful and easy-to-use Java security framework that performs authentication, authorization, cryptography, and session management.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-11T18:13:59Z",
+            "last_commit": "2026-08-15T15:37:10Z",
             "owner": "apache",
             "repo": "shiro",
             "stars": 4450
@@ -765,6 +841,20 @@
     {
       "description": "",
       "items": [
+        {
+          "node_type": "item",
+          "title": "Cerbos",
+          "description": "Open-source authorization layer with a JavaScript/Node.js SDK for RBAC, ABAC, and PBAC policies evaluated at runtime.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T08:02:20Z",
+            "owner": "cerbos",
+            "repo": "cerbos",
+            "stars": 4541
+          }
+        },
         {
           "node_type": "item",
           "title": "Oso",
@@ -866,7 +956,21 @@
             "last_commit": "2026-07-03T21:33:47Z",
             "owner": "spatie",
             "repo": "laravel-permission",
-            "stars": 12957
+            "stars": 12958
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cerbos",
+          "description": "Open-source authorization layer with a PHP SDK for RBAC, ABAC, and PBAC policies evaluated at runtime.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T08:02:20Z",
+            "owner": "cerbos",
+            "repo": "cerbos",
+            "stars": 4541
           }
         },
         {
@@ -961,6 +1065,20 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Cerbos",
+          "description": "Open-source authorization layer with a Python SDK for RBAC, ABAC, and PBAC policies evaluated at runtime.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T08:02:20Z",
+            "owner": "cerbos",
+            "repo": "cerbos",
+            "stars": 4541
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Oso",
           "description": "Batteries-included framework for building authorization in your Python application.",
           "children": [],
@@ -1046,7 +1164,7 @@
             "last_commit": "2026-08-02T10:26:35Z",
             "owner": "varvet",
             "repo": "pundit",
-            "stars": 8521
+            "stars": 8520
           }
         },
         {
@@ -1061,6 +1179,20 @@
             "owner": "CanCanCommunity",
             "repo": "cancancan",
             "stars": 5688
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cerbos",
+          "description": "Open-source authorization layer with a Ruby SDK for RBAC, ABAC, and PBAC policies evaluated at runtime.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T08:02:20Z",
+            "owner": "cerbos",
+            "repo": "cerbos",
+            "stars": 4541
           }
         },
         {
@@ -1105,10 +1237,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T00:06:10Z",
+            "last_commit": "2026-08-16T02:34:51Z",
             "owner": "ComposioHQ",
             "repo": "composio",
-            "stars": 29691
+            "stars": 29697
           }
         },
         {
@@ -1122,7 +1254,21 @@
             "last_commit": "2026-08-14T20:13:31Z",
             "owner": "NangoHQ",
             "repo": "nango",
-            "stars": 11467
+            "stars": 11471
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cerbos",
+          "description": "Open-source, policy-based authorization for AI agents, agentic workflows, and MCP servers, with fine-grained access control and full decision logging at runtime.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T08:02:20Z",
+            "owner": "cerbos",
+            "repo": "cerbos",
+            "stars": 4541
           }
         },
         {
@@ -1133,10 +1279,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T01:33:58Z",
+            "last_commit": "2026-08-15T22:16:33Z",
             "owner": "ArcadeAI",
             "repo": "arcade-mcp",
-            "stars": 1004
+            "stars": 1005
           }
         },
         {
@@ -1168,9 +1314,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T02:28:04.238Z",
+    "last_updated": "2026-08-16T02:35:59.516Z",
     "original_repository": "casdoor/awesome-auth",
-    "original_repository_sha": "0a0c058034c23579360c62394128c2162494b8ad",
+    "original_repository_sha": "aab97ee060828313f972a3ca9d746eb44cf88254",
     "enhanced_repository": "enhansome/enhansome-auth",
     "enhanced_repository_description": null,
     "title": "Awesome Authentication & Authorization & SSO & IAM with stars"

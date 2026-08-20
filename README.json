@@ -12,10 +12,10 @@
             "archived": false,
             "id": 75785240,
             "language": "Go",
-            "last_commit": "2026-08-19T11:49:19Z",
+            "last_commit": "2026-08-20T01:48:16Z",
             "owner": "authelia",
             "repo": "authelia",
-            "stars": 28624
+            "stars": 28627
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 247714750,
             "language": "Go",
-            "last_commit": "2026-08-19T06:32:43Z",
+            "last_commit": "2026-08-19T18:02:10Z",
             "owner": "zitadel",
             "repo": "zitadel",
-            "stars": 14786
+            "stars": 14790
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 378310716,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T07:25:44Z",
+            "last_commit": "2026-08-19T15:42:29Z",
             "owner": "logto-io",
             "repo": "logto",
-            "stars": 14382
+            "stars": 14388
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-18T13:55:29Z",
             "owner": "casdoor",
             "repo": "casdoor",
-            "stars": 14225
+            "stars": 14227
           }
         },
         {
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 1110512208,
             "language": "Python",
-            "last_commit": "2026-08-17T17:39:10Z",
+            "last_commit": "2026-08-19T16:45:49Z",
             "owner": "cdelmonte-zg",
             "repo": "nanoidp",
             "stars": 21
@@ -222,10 +222,10 @@
                 "archived": false,
                 "id": 247714750,
                 "language": "Go",
-                "last_commit": "2026-08-19T06:32:43Z",
+                "last_commit": "2026-08-19T18:02:10Z",
                 "owner": "zitadel",
                 "repo": "zitadel",
-                "stars": 14786
+                "stars": 14790
               }
             },
             {
@@ -240,7 +240,7 @@
                 "last_commit": "2026-08-18T13:55:29Z",
                 "owner": "casdoor",
                 "repo": "casdoor",
-                "stars": 14225
+                "stars": 14227
               }
             },
             {
@@ -285,7 +285,7 @@
                 "last_commit": "2025-11-20T01:13:40Z",
                 "owner": "ory",
                 "repo": "fosite",
-                "stars": 2610
+                "stars": 2611
               }
             },
             {
@@ -349,10 +349,10 @@
                 "archived": false,
                 "id": 3291848,
                 "language": "Java",
-                "last_commit": "2026-08-19T06:49:31Z",
+                "last_commit": "2026-08-20T01:19:36Z",
                 "owner": "pac4j",
                 "repo": "pac4j",
-                "stars": 2519
+                "stars": 2520
               }
             }
           ],
@@ -438,7 +438,7 @@
                 "archived": false,
                 "id": 66776276,
                 "language": "Python",
-                "last_commit": "2026-08-19T04:33:53Z",
+                "last_commit": "2026-08-19T22:33:06Z",
                 "owner": "python-social-auth",
                 "repo": "social-core",
                 "stars": 918
@@ -585,10 +585,10 @@
                 "archived": false,
                 "id": 247714750,
                 "language": "Go",
-                "last_commit": "2026-08-19T06:32:43Z",
+                "last_commit": "2026-08-19T18:02:10Z",
                 "owner": "zitadel",
                 "repo": "zitadel",
-                "stars": 14786
+                "stars": 14790
               }
             },
             {
@@ -600,7 +600,7 @@
                 "archived": false,
                 "id": 396856161,
                 "language": "Go",
-                "last_commit": "2026-08-19T06:06:08Z",
+                "last_commit": "2026-08-19T23:20:51Z",
                 "owner": "authzed",
                 "repo": "spicedb",
                 "stars": 6975
@@ -618,7 +618,7 @@
                 "last_commit": "2026-08-18T03:43:56Z",
                 "owner": "ory",
                 "repo": "keto",
-                "stars": 5387
+                "stars": 5388
               }
             },
             {
@@ -861,10 +861,10 @@
                 "archived": false,
                 "id": 3291848,
                 "language": "Java",
-                "last_commit": "2026-08-19T06:49:31Z",
+                "last_commit": "2026-08-20T01:19:36Z",
                 "owner": "pac4j",
                 "repo": "pac4j",
-                "stars": 2519
+                "stars": 2520
               }
             },
             {
@@ -946,7 +946,7 @@
                 "last_commit": "2026-08-13T06:03:33Z",
                 "owner": "apache",
                 "repo": "casbin-node-casbin",
-                "stars": 2913
+                "stars": 2914
               }
             },
             {
@@ -1185,7 +1185,7 @@
                 "last_commit": "2026-08-13T05:58:49Z",
                 "owner": "apache",
                 "repo": "casbin-pycasbin",
-                "stars": 1763
+                "stars": 1765
               }
             },
             {
@@ -1335,10 +1335,10 @@
             "archived": false,
             "id": 762304524,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T06:16:36Z",
+            "last_commit": "2026-08-20T01:15:14Z",
             "owner": "ComposioHQ",
             "repo": "composio",
-            "stars": 29770
+            "stars": 29787
           }
         },
         {
@@ -1350,10 +1350,10 @@
             "archived": false,
             "id": 254328371,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T11:58:36Z",
+            "last_commit": "2026-08-19T20:37:43Z",
             "owner": "NangoHQ",
             "repo": "nango",
-            "stars": 11503
+            "stars": 11511
           }
         },
         {
@@ -1406,7 +1406,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:18:45.943Z",
+    "last_updated": "2026-08-20T02:32:00.629Z",
     "original_repository": "casdoor/awesome-auth",
     "original_repository_id": 89893980,
     "original_repository_sha": "aab97ee060828313f972a3ca9d746eb44cf88254",

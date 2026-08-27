@@ -30,7 +30,7 @@
             "last_commit": "2026-08-27T11:07:31Z",
             "owner": "zitadel",
             "repo": "zitadel",
-            "stars": 14871
+            "stars": 14872
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-27T10:46:29Z",
             "owner": "logto-io",
             "repo": "logto",
-            "stars": 14469
+            "stars": 14470
           }
         },
         {
@@ -225,7 +225,7 @@
                 "last_commit": "2026-08-27T11:07:31Z",
                 "owner": "zitadel",
                 "repo": "zitadel",
-                "stars": 14871
+                "stars": 14872
               }
             },
             {
@@ -255,7 +255,7 @@
                 "last_commit": "2026-07-29T09:30:37Z",
                 "owner": "ory",
                 "repo": "kratos",
-                "stars": 13849
+                "stars": 13850
               }
             },
             {
@@ -632,7 +632,7 @@
                 "last_commit": "2026-08-27T11:07:31Z",
                 "owner": "zitadel",
                 "repo": "zitadel",
-                "stars": 14871
+                "stars": 14872
               }
             },
             {
@@ -1394,7 +1394,7 @@
             "archived": false,
             "id": 254328371,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T10:10:51Z",
+            "last_commit": "2026-08-27T11:15:40Z",
             "owner": "NangoHQ",
             "repo": "nango",
             "stars": 11615
@@ -1450,7 +1450,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:13:59.240Z",
+    "last_updated": "2026-08-27T11:20:45.724Z",
     "original_repository_info": {
       "archived": false,
       "id": 89893980,

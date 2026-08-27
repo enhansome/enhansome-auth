@@ -36,8 +36,8 @@
 ## SSO (Single-Sign-On), IAM (Identity Access Management)
 
 * [Authelia](https://github.com/authelia/authelia) ⭐ 28,718 | 🐛 129 | 🌐 Go | 📅 2026-08-27 - The Single Sign-On Multi-Factor portal for web apps.
-* [ZITADEL](https://github.com/caos/zitadel) ⭐ 14,871 | 🐛 1,134 | 🌐 Go | 📅 2026-08-27 - Cloud-native Identity & Access Management platform for secure authentication, authorization and identity management.
-* [Logto](https://github.com/logto-io/logto) ⭐ 14,469 | 🐛 180 | 🌐 TypeScript | 📅 2026-08-27 - An IAM infrastructure with AuthN, AuthZ, MFA, SSO, user management, and multi-tenancy features, supporting OAuth 2.0, OIDC, and SAML.
+* [ZITADEL](https://github.com/caos/zitadel) ⭐ 14,872 | 🐛 1,134 | 🌐 Go | 📅 2026-08-27 - Cloud-native Identity & Access Management platform for secure authentication, authorization and identity management.
+* [Logto](https://github.com/logto-io/logto) ⭐ 14,470 | 🐛 180 | 🌐 TypeScript | 📅 2026-08-27 - An IAM infrastructure with AuthN, AuthZ, MFA, SSO, user management, and multi-tenancy features, supporting OAuth 2.0, OIDC, and SAML.
 * [Casdoor](https://github.com/casdoor/casdoor) ⭐ 14,280 | 🐛 112 | 🌐 Go | 📅 2026-08-25 - UI-first centralized authentication / Single-Sign-On (SSO) platform supporting OAuth 2.0 / OIDC and SAML.
 * [NanoIDP](https://github.com/cdelmonte-zg/nanoidp) ⭐ 22 | 🐛 18 | 🌐 Python | 📅 2026-08-26 - Local development Identity Provider for testing OAuth2, OpenID Connect, and SAML flows without running a full IAM stack.
 * [Keycloak](https://www.keycloak.org/) - Open Source Identity and Access Management.
@@ -63,9 +63,9 @@
 ### <a name="authN-golang"></a>Golang
 
 * [Ory Hydra](https://github.com/ory/hydra) ⭐ 17,502 | 🐛 94 | 🌐 Go | 📅 2026-07-29 - OpenID Connect certified OAuth2 server.
-* [ZITADEL](https://github.com/caos/zitadel) ⭐ 14,871 | 🐛 1,134 | 🌐 Go | 📅 2026-08-27 - Cloud-native Identity & Access Management platform for secure authentication, authorization and identity management.
+* [ZITADEL](https://github.com/caos/zitadel) ⭐ 14,872 | 🐛 1,134 | 🌐 Go | 📅 2026-08-27 - Cloud-native Identity & Access Management platform for secure authentication, authorization and identity management.
 * [Casdoor](https://github.com/casdoor/casdoor) ⭐ 14,280 | 🐛 112 | 🌐 Go | 📅 2026-08-25 - UI-first centralized authentication / Single-Sign-On (SSO) platform supporting OAuth 2.0 / OIDC and SAML.
-* [Ory Kratos](https://github.com/ory/kratos) ⭐ 13,849 | 🐛 222 | 🌐 Go | 📅 2026-07-29 - API-first Identity and User Management system built for cloud applications.
+* [Ory Kratos](https://github.com/ory/kratos) ⭐ 13,850 | 🐛 222 | 🌐 Go | 📅 2026-07-29 - API-first Identity and User Management system built for cloud applications.
 * [Ory Oathkeeper](https://github.com/ory/oathkeeper) ⭐ 3,597 | 🐛 108 | 🌐 Go | 📅 2026-07-27 - Identity/Access proxy inspired by the BeyondCorp/Zero-Trust white paper.
 * [Ory Fosite](https://github.com/ory/fosite) ⭐ 2,612 | 🐛 59 | 🌐 Go | 📅 2025-11-20 - Extensible OAuth 2.0 and OpenID Connect SDK for Golang.
 * [OIDC](https://github.com/caos/oidc) ⭐ 1,873 | 🐛 39 | 🌐 Go | 📅 2026-08-27 - OpenID Connect Library (client and server) for Go
@@ -113,7 +113,7 @@
 ### <a name="authZ-golang"></a>Golang
 
 * [Casbin](https://github.com/casbin/casbin) ⭐ 20,353 | 🐛 38 | 🌐 Go | 📅 2026-08-21 - Authorization library that supports access control models like ACL, RBAC, ABAC in Golang.
-* [ZITADEL](https://github.com/zitadel/zitadel) ⭐ 14,871 | 🐛 1,134 | 🌐 Go | 📅 2026-08-27 - Cloud-native Identity & Access Management platform for secure authentication, authorization and identity management.
+* [ZITADEL](https://github.com/zitadel/zitadel) ⭐ 14,872 | 🐛 1,134 | 🌐 Go | 📅 2026-08-27 - Cloud-native Identity & Access Management platform for secure authentication, authorization and identity management.
 * [SpiceDB](https://github.com/authzed/spicedb) ⭐ 6,990 | 🐛 149 | 🌐 Go | 📅 2026-08-26 - Open-source implementation of the Zanzibar paper, a performant database for fine-grained permissions.
 * [Ory Keto](https://github.com/ory/keto) ⭐ 5,391 | 🐛 73 | 🌐 Go | 📅 2026-08-24 - Access control server capable of solving complex use cases (multi-tenant, attribute-based access control, etc.) with access control policies.
 * [Cerbos](https://github.com/cerbos/cerbos) ⭐ 4,558 | 🐛 59 | 🌐 Go | 📅 2026-08-27 - Open-source authorization layer with a Go SDK for RBAC, ABAC, and PBAC policies evaluated at runtime.

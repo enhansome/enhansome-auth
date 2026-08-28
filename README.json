@@ -12,11 +12,12 @@
             "archived": false,
             "id": 75785240,
             "language": "Go",
-            "last_commit": "2026-08-27T08:59:15Z",
+            "last_commit": "2026-08-28T07:26:17Z",
             "owner": "authelia",
             "repo": "authelia",
-            "stars": 28718
-          }
+            "stars": 28723
+          },
+          "first_seen": "2026-08-28T12:57:39.916Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 247714750,
             "language": "Go",
-            "last_commit": "2026-08-27T11:07:31Z",
+            "last_commit": "2026-08-28T12:20:32Z",
             "owner": "zitadel",
             "repo": "zitadel",
-            "stars": 14872
-          }
+            "stars": 14884
+          },
+          "first_seen": "2026-08-28T12:57:39.916Z"
         },
         {
           "node_type": "item",
@@ -42,11 +44,12 @@
             "archived": false,
             "id": 378310716,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T10:46:29Z",
+            "last_commit": "2026-08-28T10:43:46Z",
             "owner": "logto-io",
             "repo": "logto",
-            "stars": 14470
-          }
+            "stars": 14474
+          },
+          "first_seen": "2026-08-28T12:57:39.916Z"
         },
         {
           "node_type": "item",
@@ -57,11 +60,12 @@
             "archived": false,
             "id": 306366900,
             "language": "Go",
-            "last_commit": "2026-08-25T16:41:38Z",
+            "last_commit": "2026-08-28T11:00:55Z",
             "owner": "casdoor",
             "repo": "casdoor",
-            "stars": 14280
-          }
+            "stars": 14283
+          },
+          "first_seen": "2026-08-28T12:57:39.916Z"
         },
         {
           "node_type": "item",
@@ -72,11 +76,12 @@
             "archived": false,
             "id": 1110512208,
             "language": "Python",
-            "last_commit": "2026-08-26T19:21:47Z",
+            "last_commit": "2026-08-28T12:10:20Z",
             "owner": "cdelmonte-zg",
             "repo": "nanoidp",
-            "stars": 22
-          }
+            "stars": 23
+          },
+          "first_seen": "2026-08-28T12:57:39.916Z"
         }
       ],
       "title": "SSO (Single-Sign-On), IAM (Identity Access Management)"
@@ -99,7 +104,8 @@
                 "owner": "aspnet-contrib",
                 "repo": "AspNet.Security.OAuth.Providers",
                 "stars": 2508
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -113,8 +119,9 @@
                 "last_commit": "2026-05-21T17:53:09Z",
                 "owner": "Sustainsys",
                 "repo": "Saml2",
-                "stars": 1008
-              }
+                "stars": 1009
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -129,7 +136,8 @@
                 "owner": "TerribleDev",
                 "repo": "OwinOAuthProviders",
                 "stars": 497
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -144,7 +152,8 @@
                 "owner": "jitbit",
                 "repo": "AspNetSaml",
                 "stars": 421
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -159,7 +168,8 @@
                 "owner": "SimpleAuthentication",
                 "repo": "SimpleAuthentication",
                 "stars": 287
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -174,7 +184,8 @@
                 "owner": "DuendeArchive",
                 "repo": "IdentityServer4",
                 "stars": 64
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -189,7 +200,8 @@
                 "owner": "authgear",
                 "repo": "authgear-sdk-xamarin",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             }
           ],
           "description": null,
@@ -210,8 +222,9 @@
                 "last_commit": "2026-07-29T09:30:11Z",
                 "owner": "ory",
                 "repo": "hydra",
-                "stars": 17502
-              }
+                "stars": 17507
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -222,11 +235,12 @@
                 "archived": false,
                 "id": 247714750,
                 "language": "Go",
-                "last_commit": "2026-08-27T11:07:31Z",
+                "last_commit": "2026-08-28T12:20:32Z",
                 "owner": "zitadel",
                 "repo": "zitadel",
-                "stars": 14872
-              }
+                "stars": 14884
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -237,11 +251,12 @@
                 "archived": false,
                 "id": 306366900,
                 "language": "Go",
-                "last_commit": "2026-08-25T16:41:38Z",
+                "last_commit": "2026-08-28T11:00:55Z",
                 "owner": "casdoor",
                 "repo": "casdoor",
-                "stars": 14280
-              }
+                "stars": 14283
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -255,8 +270,9 @@
                 "last_commit": "2026-07-29T09:30:37Z",
                 "owner": "ory",
                 "repo": "kratos",
-                "stars": 13850
-              }
+                "stars": 13854
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -271,7 +287,8 @@
                 "owner": "ory",
                 "repo": "oathkeeper",
                 "stars": 3597
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -285,8 +302,9 @@
                 "last_commit": "2025-11-20T01:13:40Z",
                 "owner": "ory",
                 "repo": "fosite",
-                "stars": 2612
-              }
+                "stars": 2613
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -297,11 +315,12 @@
                 "archived": false,
                 "id": 221917370,
                 "language": "Go",
-                "last_commit": "2026-08-27T09:11:14Z",
+                "last_commit": "2026-08-28T06:45:28Z",
                 "owner": "zitadel",
                 "repo": "oidc",
-                "stars": 1873
-              }
+                "stars": 1875
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             }
           ],
           "description": null,
@@ -323,7 +342,8 @@
                 "owner": "spring-attic",
                 "repo": "spring-security-oauth",
                 "stars": 4690
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -334,11 +354,12 @@
                 "archived": false,
                 "id": 291570,
                 "language": "Java",
-                "last_commit": "2026-08-25T17:47:22Z",
+                "last_commit": "2026-08-27T18:24:33Z",
                 "owner": "apache",
                 "repo": "shiro",
                 "stars": 4452
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -349,11 +370,12 @@
                 "archived": false,
                 "id": 3291848,
                 "language": "Java",
-                "last_commit": "2026-08-27T10:18:47Z",
+                "last_commit": "2026-08-28T09:52:20Z",
                 "owner": "pac4j",
                 "repo": "pac4j",
-                "stars": 2521
-              }
+                "stars": 2522
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             }
           ],
           "description": null,
@@ -374,8 +396,9 @@
                 "last_commit": "2024-08-16T21:56:14Z",
                 "owner": "jaredhanson",
                 "repo": "passport",
-                "stars": 23534
-              }
+                "stars": 23533
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -390,7 +413,8 @@
                 "owner": "hapijs",
                 "repo": "bell",
                 "stars": 618
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -401,11 +425,12 @@
                 "archived": false,
                 "id": 9786511,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T04:08:38Z",
+                "last_commit": "2026-08-28T09:04:29Z",
                 "owner": "tgies",
                 "repo": "client-certificate-auth",
                 "stars": 80
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             }
           ],
           "description": null,
@@ -427,7 +452,8 @@
                 "owner": "authomatic",
                 "repo": "authomatic",
                 "stars": 1053
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -438,11 +464,12 @@
                 "archived": false,
                 "id": 66776276,
                 "language": "Python",
-                "last_commit": "2026-08-27T08:22:17Z",
+                "last_commit": "2026-08-28T03:20:33Z",
                 "owner": "python-social-auth",
                 "repo": "social-core",
                 "stars": 919
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -457,7 +484,8 @@
                 "owner": "openstack",
                 "repo": "keystone",
                 "stars": 717
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -472,7 +500,8 @@
                 "owner": "OWASP",
                 "repo": "raider",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             }
           ],
           "description": null,
@@ -494,7 +523,8 @@
                 "owner": "binarylogic",
                 "repo": "authlogic",
                 "stars": 4344
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             }
           ],
           "description": null,
@@ -516,7 +546,8 @@
                 "owner": "authgear",
                 "repo": "authgear-sdk-flutter",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             }
           ],
           "description": null,
@@ -544,7 +575,8 @@
                 "owner": "yanzhenjie",
                 "repo": "AndPermission",
                 "stars": 6623
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -559,7 +591,8 @@
                 "owner": "authgear",
                 "repo": "authgear-sdk-android",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             }
           ],
           "description": null,
@@ -577,11 +610,12 @@
                 "archived": false,
                 "id": 350005438,
                 "language": "Go",
-                "last_commit": "2026-08-27T07:14:16Z",
+                "last_commit": "2026-08-28T09:24:57Z",
                 "owner": "cerbos",
                 "repo": "cerbos",
                 "stars": 4558
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -596,7 +630,8 @@
                 "owner": "apache",
                 "repo": "casbin-Casbin.NET",
                 "stars": 1330
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             }
           ],
           "description": null,
@@ -617,8 +652,9 @@
                 "last_commit": "2026-08-21T08:53:52Z",
                 "owner": "apache",
                 "repo": "casbin",
-                "stars": 20353
-              }
+                "stars": 20357
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -629,11 +665,12 @@
                 "archived": false,
                 "id": 247714750,
                 "language": "Go",
-                "last_commit": "2026-08-27T11:07:31Z",
+                "last_commit": "2026-08-28T12:20:32Z",
                 "owner": "zitadel",
                 "repo": "zitadel",
-                "stars": 14872
-              }
+                "stars": 14884
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -644,11 +681,12 @@
                 "archived": false,
                 "id": 396856161,
                 "language": "Go",
-                "last_commit": "2026-08-26T20:18:06Z",
+                "last_commit": "2026-08-27T22:27:02Z",
                 "owner": "authzed",
                 "repo": "spicedb",
-                "stars": 6990
-              }
+                "stars": 6996
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -662,8 +700,9 @@
                 "last_commit": "2026-08-24T03:44:49Z",
                 "owner": "ory",
                 "repo": "keto",
-                "stars": 5391
-              }
+                "stars": 5392
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -674,11 +713,12 @@
                 "archived": false,
                 "id": 350005438,
                 "language": "Go",
-                "last_commit": "2026-08-27T07:14:16Z",
+                "last_commit": "2026-08-28T09:24:57Z",
                 "owner": "cerbos",
                 "repo": "cerbos",
                 "stars": 4558
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -693,7 +733,8 @@
                 "owner": "osohq",
                 "repo": "oso",
                 "stars": 3491
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -708,7 +749,8 @@
                 "owner": "ory",
                 "repo": "ladon",
                 "stars": 2457
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -719,11 +761,12 @@
                 "archived": false,
                 "id": 221917370,
                 "language": "Go",
-                "last_commit": "2026-08-27T09:11:14Z",
+                "last_commit": "2026-08-28T06:45:28Z",
                 "owner": "zitadel",
                 "repo": "oidc",
-                "stars": 1873
-              }
+                "stars": 1875
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -738,7 +781,8 @@
                 "owner": "mikespook",
                 "repo": "gorbac",
                 "stars": 1674
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             }
           ],
           "description": null,
@@ -756,11 +800,12 @@
                 "archived": false,
                 "id": 350005438,
                 "language": "Go",
-                "last_commit": "2026-08-27T07:14:16Z",
+                "last_commit": "2026-08-28T09:24:57Z",
                 "owner": "cerbos",
                 "repo": "cerbos",
                 "stars": 4558
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -775,7 +820,8 @@
                 "owner": "osohq",
                 "repo": "oso",
                 "stars": 3491
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -790,7 +836,8 @@
                 "owner": "apache",
                 "repo": "casbin-rs",
                 "stars": 1134
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             }
           ],
           "description": null,
@@ -812,7 +859,8 @@
                 "owner": "delba",
                 "repo": "Permission",
                 "stars": 2891
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -827,7 +875,8 @@
                 "owner": "authgear",
                 "repo": "authgear-sdk-ios",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             }
           ],
           "description": null,
@@ -845,11 +894,12 @@
                 "archived": false,
                 "id": 350005438,
                 "language": "Go",
-                "last_commit": "2026-08-27T07:14:16Z",
+                "last_commit": "2026-08-28T09:24:57Z",
                 "owner": "cerbos",
                 "repo": "cerbos",
                 "stars": 4558
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -860,11 +910,12 @@
                 "archived": false,
                 "id": 291570,
                 "language": "Java",
-                "last_commit": "2026-08-25T17:47:22Z",
+                "last_commit": "2026-08-27T18:24:33Z",
                 "owner": "apache",
                 "repo": "shiro",
                 "stars": 4452
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -879,7 +930,8 @@
                 "owner": "osohq",
                 "repo": "oso",
                 "stars": 3491
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -894,7 +946,8 @@
                 "owner": "apache",
                 "repo": "casbin-jcasbin",
                 "stars": 2652
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -905,11 +958,12 @@
                 "archived": false,
                 "id": 3291848,
                 "language": "Java",
-                "last_commit": "2026-08-27T10:18:47Z",
+                "last_commit": "2026-08-28T09:52:20Z",
                 "owner": "pac4j",
                 "repo": "pac4j",
-                "stars": 2521
-              }
+                "stars": 2522
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -924,7 +978,8 @@
                 "owner": "wstrange",
                 "repo": "GoogleAuth",
                 "stars": 1108
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -939,7 +994,8 @@
                 "owner": "att",
                 "repo": "xacml-3.0",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             }
           ],
           "description": null,
@@ -957,11 +1013,12 @@
                 "archived": false,
                 "id": 350005438,
                 "language": "Go",
-                "last_commit": "2026-08-27T07:14:16Z",
+                "last_commit": "2026-08-28T09:24:57Z",
                 "owner": "cerbos",
                 "repo": "cerbos",
                 "stars": 4558
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -976,7 +1033,8 @@
                 "owner": "osohq",
                 "repo": "oso",
                 "stars": 3491
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -991,7 +1049,8 @@
                 "owner": "apache",
                 "repo": "casbin-node-casbin",
                 "stars": 2916
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -1006,7 +1065,8 @@
                 "owner": "onury",
                 "repo": "accesscontrol",
                 "stars": 2327
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -1021,7 +1081,8 @@
                 "owner": "seeden",
                 "repo": "rbac",
                 "stars": 1005
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -1036,7 +1097,8 @@
                 "owner": "fatihky",
                 "repo": "pundit-ts",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -1051,7 +1113,8 @@
                 "owner": "vovantics",
                 "repo": "abac",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             }
           ],
           "description": null,
@@ -1073,7 +1136,8 @@
                 "owner": "spatie",
                 "repo": "laravel-permission",
                 "stars": 12964
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -1084,11 +1148,12 @@
                 "archived": false,
                 "id": 350005438,
                 "language": "Go",
-                "last_commit": "2026-08-27T07:14:16Z",
+                "last_commit": "2026-08-28T09:24:57Z",
                 "owner": "cerbos",
                 "repo": "cerbos",
                 "stars": 4558
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -1103,7 +1168,8 @@
                 "owner": "php-casbin",
                 "repo": "php-casbin",
                 "stars": 1335
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -1118,7 +1184,8 @@
                 "owner": "OWASP",
                 "repo": "rbac",
                 "stars": 436
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -1133,7 +1200,8 @@
                 "owner": "CraftCamp",
                 "repo": "php-abac",
                 "stars": 98
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -1148,7 +1216,8 @@
                 "owner": "xiidea",
                 "repo": "ezRbac",
                 "stars": 85
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -1163,7 +1232,8 @@
                 "owner": "ordermind",
                 "repo": "symfony-logical-authorization-bundle",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -1178,7 +1248,8 @@
                 "owner": "ordermind",
                 "repo": "logical-permissions-php",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             }
           ],
           "description": null,
@@ -1196,11 +1267,12 @@
                 "archived": false,
                 "id": 350005438,
                 "language": "Go",
-                "last_commit": "2026-08-27T07:14:16Z",
+                "last_commit": "2026-08-28T09:24:57Z",
                 "owner": "cerbos",
                 "repo": "cerbos",
                 "stars": 4558
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -1215,7 +1287,8 @@
                 "owner": "osohq",
                 "repo": "oso",
                 "stars": 3491
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -1230,7 +1303,8 @@
                 "owner": "apache",
                 "repo": "casbin-pycasbin",
                 "stars": 1764
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -1245,7 +1319,8 @@
                 "owner": "shonenada",
                 "repo": "flask-rbac",
                 "stars": 233
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -1260,7 +1335,8 @@
                 "owner": "kolotaev",
                 "repo": "vakt",
                 "stars": 194
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -1275,7 +1351,8 @@
                 "owner": "Neko1313",
                 "repo": "casbin-fastapi-decorator",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             }
           ],
           "description": null,
@@ -1293,11 +1370,12 @@
                 "archived": false,
                 "id": 6529205,
                 "language": "Ruby",
-                "last_commit": "2026-08-27T09:23:58Z",
+                "last_commit": "2026-08-28T08:16:33Z",
                 "owner": "varvet",
                 "repo": "pundit",
                 "stars": 8522
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -1312,7 +1390,8 @@
                 "owner": "CanCanCommunity",
                 "repo": "cancancan",
                 "stars": 5686
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -1323,11 +1402,12 @@
                 "archived": false,
                 "id": 350005438,
                 "language": "Go",
-                "last_commit": "2026-08-27T07:14:16Z",
+                "last_commit": "2026-08-28T09:24:57Z",
                 "owner": "cerbos",
                 "repo": "cerbos",
                 "stars": 4558
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -1342,7 +1422,8 @@
                 "owner": "osohq",
                 "repo": "oso",
                 "stars": 3491
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             },
             {
               "node_type": "item",
@@ -1357,7 +1438,8 @@
                 "owner": "CasbinRuby",
                 "repo": "casbin-ruby",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T12:57:39.916Z"
             }
           ],
           "description": null,
@@ -1379,11 +1461,12 @@
             "archived": false,
             "id": 762304524,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T09:13:28Z",
+            "last_commit": "2026-08-28T12:45:32Z",
             "owner": "ComposioHQ",
             "repo": "composio",
-            "stars": 29900
-          }
+            "stars": 29915
+          },
+          "first_seen": "2026-08-28T12:57:39.916Z"
         },
         {
           "node_type": "item",
@@ -1394,11 +1477,12 @@
             "archived": false,
             "id": 254328371,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:15:40Z",
+            "last_commit": "2026-08-28T12:53:56Z",
             "owner": "NangoHQ",
             "repo": "nango",
-            "stars": 11615
-          }
+            "stars": 11625
+          },
+          "first_seen": "2026-08-28T12:57:39.916Z"
         },
         {
           "node_type": "item",
@@ -1409,11 +1493,12 @@
             "archived": false,
             "id": 350005438,
             "language": "Go",
-            "last_commit": "2026-08-27T07:14:16Z",
+            "last_commit": "2026-08-28T09:24:57Z",
             "owner": "cerbos",
             "repo": "cerbos",
             "stars": 4558
-          }
+          },
+          "first_seen": "2026-08-28T12:57:39.916Z"
         },
         {
           "node_type": "item",
@@ -1424,11 +1509,12 @@
             "archived": false,
             "id": 792542977,
             "language": "Python",
-            "last_commit": "2026-08-27T06:03:53Z",
+            "last_commit": "2026-08-27T23:09:22Z",
             "owner": "ArcadeAI",
             "repo": "arcade-mcp",
-            "stars": 1009
-          }
+            "stars": 1010
+          },
+          "first_seen": "2026-08-28T12:57:39.916Z"
         },
         {
           "node_type": "item",
@@ -1442,15 +1528,16 @@
             "last_commit": "2026-07-24T23:13:46Z",
             "owner": "agentrhq",
             "repo": "authsome",
-            "stars": 83
-          }
+            "stars": 84
+          },
+          "first_seen": "2026-08-28T12:57:39.916Z"
         }
       ],
       "title": "AI Agent Auth"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:20:45.724Z",
+    "last_updated": "2026-08-28T12:57:39.916Z",
     "original_repository_info": {
       "archived": false,
       "id": 89893980,
@@ -1458,7 +1545,7 @@
       "last_commit": "2026-08-15T03:48:23Z",
       "owner": "casdoor",
       "repo": "awesome-auth",
-      "stars": 540
+      "stars": 539
     },
     "original_repository_sha": "aab97ee060828313f972a3ca9d746eb44cf88254",
     "enhanced_repository": "enhansome/enhansome-auth",

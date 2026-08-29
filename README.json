@@ -15,11 +15,11 @@
             "id": 75785240,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T04:28:34Z",
+            "last_commit": "2026-08-29T07:53:22Z",
             "open_issues": 121,
             "owner": "authelia",
             "repo": "authelia",
-            "stars": 28733,
+            "stars": 28734,
             "topics": [
               "2fa",
               "authentication",
@@ -61,7 +61,7 @@
             "open_issues": 1140,
             "owner": "zitadel",
             "repo": "zitadel",
-            "stars": 14888,
+            "stars": 14891,
             "topics": [
               "2fa",
               "authentication",
@@ -139,7 +139,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-08-28T17:53:32Z",
-            "open_issues": 117,
+            "open_issues": 118,
             "owner": "casdoor",
             "repo": "casdoor",
             "stars": 14288,
@@ -452,7 +452,7 @@
                 "open_issues": 1140,
                 "owner": "zitadel",
                 "repo": "zitadel",
-                "stars": 14888,
+                "stars": 14891,
                 "topics": [
                   "2fa",
                   "authentication",
@@ -488,7 +488,7 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-28T17:53:32Z",
-                "open_issues": 117,
+                "open_issues": 118,
                 "owner": "casdoor",
                 "repo": "casdoor",
                 "stars": 14288,
@@ -1185,7 +1185,7 @@
                 "open_issues": 39,
                 "owner": "apache",
                 "repo": "casbin",
-                "stars": 20357,
+                "stars": 20358,
                 "topics": [
                   "abac",
                   "access-control",
@@ -1225,7 +1225,7 @@
                 "open_issues": 1140,
                 "owner": "zitadel",
                 "repo": "zitadel",
-                "stars": 14888,
+                "stars": 14891,
                 "topics": [
                   "2fa",
                   "authentication",
@@ -1915,7 +1915,7 @@
                 "open_issues": 7,
                 "owner": "onury",
                 "repo": "accesscontrol",
-                "stars": 2327,
+                "stars": 2328,
                 "topics": [
                   "abac",
                   "access-control",
@@ -2117,7 +2117,7 @@
                 "open_issues": 58,
                 "owner": "OWASP",
                 "repo": "rbac",
-                "stars": 436,
+                "stars": 435,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
@@ -2543,11 +2543,11 @@
             "id": 762304524,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-29T02:08:46Z",
-            "open_issues": 71,
+            "last_commit": "2026-08-29T05:03:56Z",
+            "open_issues": 72,
             "owner": "ComposioHQ",
             "repo": "composio",
-            "stars": 29925,
+            "stars": 29926,
             "topics": [
               "agentic-ai",
               "agents",
@@ -2583,10 +2583,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-08-29T00:37:18Z",
-            "open_issues": 121,
+            "open_issues": 122,
             "owner": "NangoHQ",
             "repo": "nango",
-            "stars": 11632,
+            "stars": 11635,
             "topics": [
               "access-token",
               "api",
@@ -2645,11 +2645,11 @@
             "id": 792542977,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-27T23:09:22Z",
-            "open_issues": 25,
+            "last_commit": "2026-08-29T07:53:06Z",
+            "open_issues": 26,
             "owner": "ArcadeAI",
             "repo": "arcade-mcp",
-            "stars": 1010,
+            "stars": 1011,
             "topics": [
               "ai",
               "arcade",
@@ -2719,7 +2719,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:42:13.098Z",
+    "last_updated": "2026-08-29T07:54:30.429Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list for authentication and authorization",

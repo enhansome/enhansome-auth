@@ -10,12 +10,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™",
+            "homepage": "https://www.authelia.com",
             "id": 75785240,
             "language": "Go",
-            "last_commit": "2026-08-28T07:26:17Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:28:34Z",
+            "open_issues": 121,
             "owner": "authelia",
             "repo": "authelia",
-            "stars": 28723
+            "stars": 28733,
+            "topics": [
+              "2fa",
+              "authentication",
+              "docker",
+              "golang",
+              "kubernetes",
+              "ldap",
+              "mfa",
+              "multifactor",
+              "oauth2",
+              "openid-connect",
+              "passkeys",
+              "push-notifications",
+              "security",
+              "sso",
+              "sso-authentication",
+              "totp",
+              "two-factor",
+              "two-factor-authentication",
+              "webauthn",
+              "yubikey"
+            ]
           },
           "first_seen": "2026-08-28T12:57:39.916Z"
         },
@@ -26,12 +52,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ZITADEL - Identity infrastructure, simplified for you.",
+            "homepage": "https://zitadel.com",
             "id": 247714750,
             "language": "Go",
-            "last_commit": "2026-08-28T12:20:32Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T00:18:29Z",
+            "open_issues": 1140,
             "owner": "zitadel",
             "repo": "zitadel",
-            "stars": 14884
+            "stars": 14888,
+            "topics": [
+              "2fa",
+              "authentication",
+              "authorization",
+              "fido2",
+              "fips-140-3",
+              "identity",
+              "login",
+              "mfa",
+              "multitenancy",
+              "oauth2",
+              "oidc",
+              "openid-connect",
+              "passkeys",
+              "saml",
+              "scim",
+              "sso",
+              "user"
+            ]
           },
           "first_seen": "2026-08-28T12:57:39.916Z"
         },
@@ -42,12 +91,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
+            "homepage": "https://logto.io",
             "id": 378310716,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T10:43:46Z",
+            "license": "MPL-2.0",
+            "last_commit": "2026-08-29T02:18:20Z",
+            "open_issues": 177,
             "owner": "logto-io",
             "repo": "logto",
-            "stars": 14474
+            "stars": 14475,
+            "topics": [
+              "authentication",
+              "authorization",
+              "email",
+              "identity",
+              "jwt",
+              "login",
+              "logto",
+              "mfa",
+              "oauth2",
+              "openid-connect",
+              "password",
+              "passwordless",
+              "rbac",
+              "saml",
+              "signup",
+              "sms",
+              "social-login",
+              "sso",
+              "totp",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T12:57:39.916Z"
         },
@@ -58,12 +133,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD",
+            "homepage": "https://casdoor.ai",
             "id": 306366900,
             "language": "Go",
-            "last_commit": "2026-08-28T11:00:55Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T17:53:32Z",
+            "open_issues": 117,
             "owner": "casdoor",
             "repo": "casdoor",
-            "stars": 14283
+            "stars": 14288,
+            "topics": [
+              "agent",
+              "agentic-ai",
+              "agi",
+              "ai-gateway",
+              "auth",
+              "authentication",
+              "iam",
+              "llm",
+              "mcp",
+              "mcp-gateway",
+              "mfa",
+              "oauth",
+              "oidc",
+              "openclaw",
+              "radius",
+              "saml",
+              "scim",
+              "single-sign-on",
+              "sso",
+              "webauthn"
+            ]
           },
           "first_seen": "2026-08-28T12:57:39.916Z"
         },
@@ -74,12 +175,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight, configurable Identity Provider for development and testing. Supports OAuth2/OIDC and SAML 2.0 protocols with a full-featured web UI for configuration.",
+            "homepage": "https://cdelmonte-zg.github.io/nanoidp/",
             "id": 1110512208,
             "language": "Python",
-            "last_commit": "2026-08-28T12:10:20Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T22:00:24Z",
+            "open_issues": 17,
             "owner": "cdelmonte-zg",
             "repo": "nanoidp",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "authentication",
+              "identity-provider",
+              "idp",
+              "mock-server",
+              "oauth2",
+              "oidc",
+              "openid-connect",
+              "python",
+              "saml",
+              "security",
+              "sso",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T12:57:39.916Z"
         }
@@ -98,12 +217,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OAuth 2.0 social authentication providers for ASP.NET Core",
+                "homepage": null,
                 "id": 34955518,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T06:27:42Z",
+                "open_issues": 18,
                 "owner": "aspnet-contrib",
                 "repo": "AspNet.Security.OAuth.Providers",
-                "stars": 2508
+                "stars": 2508,
+                "topics": [
+                  "aspnetcore",
+                  "oauth2",
+                  "social-authentication"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -114,12 +242,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Saml2 Authentication services for ASP.NET",
+                "homepage": null,
                 "id": 12864759,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-21T17:53:09Z",
+                "open_issues": 130,
                 "owner": "Sustainsys",
                 "repo": "Saml2",
-                "stars": 1009
+                "stars": 1009,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -130,12 +263,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OAuth providers for Owin",
+                "homepage": null,
                 "id": 14353016,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2023-04-15T15:33:42Z",
+                "open_issues": 185,
                 "owner": "TerribleDev",
                 "repo": "OwinOAuthProviders",
-                "stars": 497
+                "stars": 497,
+                "topics": [
+                  "c-sharp",
+                  "oauth-provider",
+                  "openid",
+                  "owin"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -146,12 +289,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Very simple SAML 2.0 consumer module for ASP.NET/C#",
+                "homepage": "https://www.jitbit.com",
                 "id": 75106013,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-20T22:51:02Z",
+                "open_issues": 4,
                 "owner": "jitbit",
                 "repo": "AspNetSaml",
-                "stars": 421
+                "stars": 421,
+                "topics": [
+                  "asp-net",
+                  "asp-net-core",
+                  "asp-net-mvc",
+                  "aspnetcore",
+                  "dotnet",
+                  "saml",
+                  "saml-service-provider",
+                  "saml2",
+                  "single-sign-on",
+                  "sso"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -162,12 +321,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A really simple way for developers to add \"Social Authentication\" to their ASP.NET web application",
+                "homepage": null,
                 "id": 6155755,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-02-22T09:58:04Z",
+                "open_issues": 39,
                 "owner": "SimpleAuthentication",
                 "repo": "SimpleAuthentication",
-                "stars": 287
+                "stars": 287,
+                "topics": [
+                  "maintenance-mode",
+                  "obsolete"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -178,12 +345,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 46652227,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2025-03-06T09:29:02Z",
+                "open_issues": 0,
                 "owner": "DuendeArchive",
                 "repo": "IdentityServer4",
-                "stars": 64
+                "stars": 64,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -194,12 +366,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Authgear authentication SDK for Xamarin applications",
+                "homepage": "https://www.authgear.com/",
                 "id": 486120726,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2024-11-04T12:04:41Z",
+                "open_issues": 11,
                 "owner": "authgear",
                 "repo": "authgear-sdk-xamarin",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "android",
+                  "dotnet",
+                  "ios",
+                  "nuget",
+                  "sdk",
+                  "xamarin"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             }
@@ -217,12 +401,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on Ory Network or self-host. Trusted by OpenAI and many others for scale and security. Written in Go.",
+                "homepage": "https://www.ory.com/?utm_source=github&utm_medium=banner&utm_campaign=hydra",
                 "id": 36071697,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-29T09:30:11Z",
+                "open_issues": 94,
                 "owner": "ory",
                 "repo": "hydra",
-                "stars": 17507
+                "stars": 17510,
+                "topics": [
+                  "authorization",
+                  "cloud",
+                  "docker",
+                  "federation",
+                  "hacktoberfest",
+                  "hydra",
+                  "identity",
+                  "oauth",
+                  "oauth-provider",
+                  "oauth2",
+                  "oauth2-provider",
+                  "oauth2-server",
+                  "oidc",
+                  "openid",
+                  "openid-connect",
+                  "openid-connect-provider",
+                  "openid-provider",
+                  "security",
+                  "server",
+                  "sso"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -233,12 +443,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ZITADEL - Identity infrastructure, simplified for you.",
+                "homepage": "https://zitadel.com",
                 "id": 247714750,
                 "language": "Go",
-                "last_commit": "2026-08-28T12:20:32Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-29T00:18:29Z",
+                "open_issues": 1140,
                 "owner": "zitadel",
                 "repo": "zitadel",
-                "stars": 14884
+                "stars": 14888,
+                "topics": [
+                  "2fa",
+                  "authentication",
+                  "authorization",
+                  "fido2",
+                  "fips-140-3",
+                  "identity",
+                  "login",
+                  "mfa",
+                  "multitenancy",
+                  "oauth2",
+                  "oidc",
+                  "openid-connect",
+                  "passkeys",
+                  "saml",
+                  "scim",
+                  "sso",
+                  "user"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -249,12 +482,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD",
+                "homepage": "https://casdoor.ai",
                 "id": 306366900,
                 "language": "Go",
-                "last_commit": "2026-08-28T11:00:55Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T17:53:32Z",
+                "open_issues": 117,
                 "owner": "casdoor",
                 "repo": "casdoor",
-                "stars": 14283
+                "stars": 14288,
+                "topics": [
+                  "agent",
+                  "agentic-ai",
+                  "agi",
+                  "ai-gateway",
+                  "auth",
+                  "authentication",
+                  "iam",
+                  "llm",
+                  "mcp",
+                  "mcp-gateway",
+                  "mfa",
+                  "oauth",
+                  "oidc",
+                  "openclaw",
+                  "radius",
+                  "saml",
+                  "scim",
+                  "single-sign-on",
+                  "sso",
+                  "webauthn"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -265,12 +524,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network. ",
+                "homepage": "https://www.ory.com/?utm_source=github&utm_medium=banner&utm_campaign=kratos",
                 "id": 135321861,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-29T09:30:37Z",
+                "open_issues": 222,
                 "owner": "ory",
                 "repo": "kratos",
-                "stars": 13854
+                "stars": 13855,
+                "topics": [
+                  "hacktoberfest",
+                  "identity",
+                  "identity-management",
+                  "login",
+                  "profile-management",
+                  "registration",
+                  "user",
+                  "user-management",
+                  "user-profile",
+                  "user-profiles",
+                  "users"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -281,12 +557,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.",
+                "homepage": "https://www.ory.com/?utm_source=github&utm_medium=banner&utm_campaign=hydra",
                 "id": 104739489,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-27T15:23:59Z",
+                "open_issues": 108,
                 "owner": "ory",
                 "repo": "oathkeeper",
-                "stars": 3597
+                "stars": 3597,
+                "topics": [
+                  "api-gateway",
+                  "golang",
+                  "hacktoberfest",
+                  "oauth2",
+                  "openid-connect",
+                  "ory",
+                  "ory-oathkeeper",
+                  "reverse-proxy"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -297,12 +587,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extensible security first OAuth 2.0 and OpenID Connect SDK for Go.",
+                "homepage": "https://www.ory.com/?utm_source=github&utm_medium=banner&utm_campaign=fosite",
                 "id": 48582772,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-20T01:13:40Z",
+                "open_issues": 59,
                 "owner": "ory",
                 "repo": "fosite",
-                "stars": 2613
+                "stars": 2613,
+                "topics": [
+                  "auth",
+                  "authentication",
+                  "authorization",
+                  "golang",
+                  "hacktoberfest",
+                  "library",
+                  "oauth",
+                  "oauth2",
+                  "openid-connect",
+                  "sdk",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -313,12 +620,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation",
+                "homepage": "https://zitadel.com",
                 "id": 221917370,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T06:45:28Z",
+                "open_issues": 40,
                 "owner": "zitadel",
                 "repo": "oidc",
-                "stars": 1875
+                "stars": 1878,
+                "topics": [
+                  "certified",
+                  "client",
+                  "code-flow",
+                  "code-flow-pkce",
+                  "discovery",
+                  "go",
+                  "golang",
+                  "jwt",
+                  "library",
+                  "oauth",
+                  "oauth2",
+                  "oidc",
+                  "openid-connect",
+                  "openidconnect",
+                  "pkce",
+                  "refresh-token",
+                  "relying-party",
+                  "server",
+                  "standard"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             }
@@ -336,12 +668,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Support for adding OAuth1(a) and OAuth2 features (consumer and provider) for Spring web applications.",
+                "homepage": "http://github.com/spring-projects/spring-security-oauth",
                 "id": 2108481,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2022-05-30T20:10:19Z",
+                "open_issues": 544,
                 "owner": "spring-attic",
                 "repo": "spring-security-oauth",
-                "stars": 4690
+                "stars": 4690,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -352,12 +689,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Shiro is a powerful and easy-to-use Java security framework that performs authentication, authorization, cryptography, and session management",
+                "homepage": "https://shiro.apache.org/",
                 "id": 291570,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T18:24:33Z",
+                "open_issues": 5,
                 "owner": "apache",
                 "repo": "shiro",
-                "stars": 4452
+                "stars": 4452,
+                "topics": [
+                  "java",
+                  "library",
+                  "shiro",
+                  "web-framework"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -368,12 +715,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Security engine for Java (authentication, authorization, multi frameworks): OpenID Connect, SAML2, CAS, OAuth, LDAP, JWT...",
+                "homepage": "http://www.pac4j.org",
                 "id": 3291848,
                 "language": "Java",
-                "last_commit": "2026-08-28T09:52:20Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T01:12:53Z",
+                "open_issues": 2,
                 "owner": "pac4j",
                 "repo": "pac4j",
-                "stars": 2522
+                "stars": 2522,
+                "topics": [
+                  "authentication",
+                  "authorization",
+                  "cas",
+                  "dropwizard",
+                  "j2e",
+                  "java",
+                  "jax-rs",
+                  "jwt",
+                  "ldap",
+                  "oauth",
+                  "openid-connect",
+                  "play-framework",
+                  "ratpack",
+                  "saml",
+                  "security",
+                  "shiro",
+                  "sparkjava",
+                  "spring-mvc",
+                  "spring-security",
+                  "vertx"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             }
@@ -391,12 +764,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple, unobtrusive authentication for Node.js.",
+                "homepage": "https://www.passportjs.org?utm_source=github&utm_medium=referral&utm_campaign=passport&utm_content=about",
                 "id": 2540368,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-08-16T21:56:14Z",
+                "open_issues": 398,
                 "owner": "jaredhanson",
                 "repo": "passport",
-                "stars": 23533
+                "stars": 23533,
+                "topics": [
+                  "express",
+                  "nodejs",
+                  "oauth",
+                  "oauth2",
+                  "openid",
+                  "openid-connect",
+                  "passport",
+                  "saml"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -407,12 +794,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Third-party login plugin for hapi",
+                "homepage": null,
                 "id": 20395079,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2025-03-12T12:09:23Z",
+                "open_issues": 16,
                 "owner": "hapijs",
                 "repo": "bell",
-                "stars": 618
+                "stars": 618,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -423,12 +815,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Node.js middleware and toolkit for client SSL certificate (mTLS) auth",
+                "homepage": "http://tgies.github.io/client-certificate-auth/",
                 "id": 9786511,
                 "language": "JavaScript",
-                "last_commit": "2026-08-28T09:04:29Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T23:59:02Z",
+                "open_issues": 27,
                 "owner": "tgies",
                 "repo": "client-certificate-auth",
-                "stars": 80
+                "stars": 80,
+                "topics": [
+                  "authentication",
+                  "authorization",
+                  "client-certificate",
+                  "client-certificate-authentication",
+                  "client-certificates",
+                  "express",
+                  "express-middleware",
+                  "expressjs",
+                  "expressjs-middleware",
+                  "middleware",
+                  "security",
+                  "ssl",
+                  "tls",
+                  "tls-certificate"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             }
@@ -446,12 +858,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple yet powerful authorization / authentication client library for Python web applications.",
+                "homepage": "https://authomatic.github.io/authomatic",
                 "id": 8073983,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-12-12T08:28:51Z",
+                "open_issues": 64,
                 "owner": "authomatic",
                 "repo": "authomatic",
-                "stars": 1053
+                "stars": 1053,
+                "topics": [
+                  "authentication",
+                  "authorization",
+                  "oauth-client",
+                  "oauth2-client",
+                  "openid-client",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -462,12 +886,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python Social Auth - Core",
+                "homepage": "https://python-social-auth.readthedocs.io/",
                 "id": 66776276,
                 "language": "Python",
-                "last_commit": "2026-08-28T03:20:33Z",
+                "license": "BSD-3-Clause",
+                "last_commit": "2026-08-29T03:00:03Z",
+                "open_issues": 57,
                 "owner": "python-social-auth",
                 "repo": "social-core",
-                "stars": 919
+                "stars": 919,
+                "topics": [
+                  "auth",
+                  "authentication",
+                  "authorization",
+                  "hacktoberfest",
+                  "python-social",
+                  "social"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -478,12 +914,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenStack Identity (Keystone). Mirror of code maintained at opendev.org.",
+                "homepage": "https://opendev.org/openstack/keystone",
                 "id": 10384993,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T21:20:26Z",
+                "open_issues": 0,
                 "owner": "openstack",
                 "repo": "keystone",
-                "stars": 717
+                "stars": 717,
+                "topics": [
+                  "service"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -494,12 +937,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OWASP Raider: a novel framework for manipulating the HTTP processes of persistent sessions",
+                "homepage": "https://raiderauth.com/",
                 "id": 406428008,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-07-20T11:56:34Z",
+                "open_issues": 54,
                 "owner": "OWASP",
                 "repo": "raider",
-                "stars": 101
+                "stars": 101,
+                "topics": [
+                  "authentication",
+                  "authorization",
+                  "finite-state-machine",
+                  "fsm",
+                  "hy",
+                  "hylang",
+                  "lisp",
+                  "owasp",
+                  "python",
+                  "raiderauth",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             }
@@ -517,12 +977,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple ruby authentication solution.",
+                "homepage": "http://rdoc.info/projects/binarylogic/authlogic",
                 "id": 67451,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-02-08T21:22:37Z",
+                "open_issues": 12,
                 "owner": "binarylogic",
                 "repo": "authlogic",
-                "stars": 4344
+                "stars": 4344,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             }
@@ -540,12 +1005,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Authgear authentication SDK for Flutter",
+                "homepage": "https://www.authgear.com/",
                 "id": 483602114,
                 "language": "Dart",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-26T10:12:18Z",
+                "open_issues": 10,
                 "owner": "authgear",
                 "repo": "authgear-sdk-flutter",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "android",
+                  "authentication",
+                  "authgear",
+                  "flutter",
+                  "ios",
+                  "login",
+                  "mobile-app",
+                  "sdk"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             }
@@ -569,12 +1048,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":strawberry: Permissions manager for Android platform.",
+                "homepage": "https://yanzhenjie.com/AndPermission",
                 "id": 67911698,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2024-01-04T06:43:43Z",
+                "open_issues": 176,
                 "owner": "yanzhenjie",
                 "repo": "AndPermission",
-                "stars": 6623
+                "stars": 6623,
+                "topics": [
+                  "android-permission",
+                  "permission",
+                  "runtime-permission"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -585,12 +1073,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Authgear authentication SDK for Android",
+                "homepage": "https://www.authgear.com/",
                 "id": 295948452,
                 "language": "Kotlin",
+                "license": null,
                 "last_commit": "2026-08-20T07:57:33Z",
+                "open_issues": 11,
                 "owner": "authgear",
                 "repo": "authgear-sdk-android",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "android",
+                  "authentication",
+                  "java",
+                  "kotlin",
+                  "oauth2",
+                  "sdk"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             }
@@ -608,12 +1108,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources.",
+                "homepage": "https://cerbos.dev",
                 "id": 350005438,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T09:24:57Z",
+                "open_issues": 56,
                 "owner": "cerbos",
                 "repo": "cerbos",
-                "stars": 4558
+                "stars": 4560,
+                "topics": [
+                  "access-control",
+                  "authorization",
+                  "go",
+                  "golang",
+                  "kubernetes",
+                  "policy",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -624,12 +1137,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An authorization library that supports access control models like ACL, RBAC, ABAC in .NET (C#)",
+                "homepage": "https://casbin.org",
                 "id": 189351978,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-15T14:45:47Z",
+                "open_issues": 7,
                 "owner": "apache",
                 "repo": "casbin-Casbin.NET",
-                "stars": 1330
+                "stars": 1331,
+                "topics": [
+                  "abac",
+                  "access-control",
+                  "acl",
+                  "auth",
+                  "authorization",
+                  "authz",
+                  "casbin",
+                  "dotnet",
+                  "permission",
+                  "rbac"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             }
@@ -647,12 +1176,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Casbin: an authorization library that supports access control models like ACL, RBAC, ABAC.",
+                "homepage": "https://casbin.apache.org/",
                 "id": 87617508,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-21T08:53:52Z",
+                "open_issues": 39,
                 "owner": "apache",
                 "repo": "casbin",
-                "stars": 20357
+                "stars": 20357,
+                "topics": [
+                  "abac",
+                  "access-control",
+                  "acl",
+                  "apache",
+                  "auth",
+                  "authentication",
+                  "authn",
+                  "authorization",
+                  "authz",
+                  "cas",
+                  "casbin",
+                  "iam",
+                  "oauth",
+                  "oidc",
+                  "permission",
+                  "rbac",
+                  "saml",
+                  "sso"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -663,12 +1216,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ZITADEL - Identity infrastructure, simplified for you.",
+                "homepage": "https://zitadel.com",
                 "id": 247714750,
                 "language": "Go",
-                "last_commit": "2026-08-28T12:20:32Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-29T00:18:29Z",
+                "open_issues": 1140,
                 "owner": "zitadel",
                 "repo": "zitadel",
-                "stars": 14884
+                "stars": 14888,
+                "topics": [
+                  "2fa",
+                  "authentication",
+                  "authorization",
+                  "fido2",
+                  "fips-140-3",
+                  "identity",
+                  "login",
+                  "mfa",
+                  "multitenancy",
+                  "oauth2",
+                  "oidc",
+                  "openid-connect",
+                  "passkeys",
+                  "saml",
+                  "scim",
+                  "sso",
+                  "user"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -679,12 +1255,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data",
+                "homepage": "https://authzed.com/docs",
                 "id": 396856161,
                 "language": "Go",
-                "last_commit": "2026-08-27T22:27:02Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T19:07:06Z",
+                "open_issues": 146,
                 "owner": "authzed",
                 "repo": "spicedb",
-                "stars": 6996
+                "stars": 6999,
+                "topics": [
+                  "abac",
+                  "acl",
+                  "authorization",
+                  "ciam",
+                  "cloud-native",
+                  "database",
+                  "distributed-systems",
+                  "entitlements",
+                  "fga",
+                  "fine-grained-access-control",
+                  "fine-grained-authorization",
+                  "kubernetes",
+                  "permissions",
+                  "rbac",
+                  "rebac",
+                  "security",
+                  "security-tools",
+                  "zanzibar"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -695,12 +1295,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The most scalable and customizable permission server on the market. Fix your slow or broken permission system with Google's proven \"Zanzibar\" approach. Supports ACL, RBAC, and more. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters.",
+                "homepage": "https://www.ory.com/?utm_source=github&utm_medium=banner&utm_campaign=keto",
                 "id": 125619154,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T03:44:49Z",
+                "open_issues": 73,
                 "owner": "ory",
                 "repo": "keto",
-                "stars": 5392
+                "stars": 5392,
+                "topics": [
+                  "abac",
+                  "access-control",
+                  "acl",
+                  "authorization",
+                  "fine-grained-permissions",
+                  "hacktoberfest",
+                  "iam",
+                  "permission-management",
+                  "permissions",
+                  "policy-management",
+                  "rbac",
+                  "rebac",
+                  "relation-tuples",
+                  "zanzibar"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -711,12 +1331,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources.",
+                "homepage": "https://cerbos.dev",
                 "id": 350005438,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T09:24:57Z",
+                "open_issues": 56,
                 "owner": "cerbos",
                 "repo": "cerbos",
-                "stars": 4558
+                "stars": 4560,
+                "topics": [
+                  "access-control",
+                  "authorization",
+                  "go",
+                  "golang",
+                  "kubernetes",
+                  "policy",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -727,12 +1360,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deprecated: See README",
+                "homepage": null,
                 "id": 261283923,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2025-02-26T16:59:39Z",
+                "open_issues": 119,
                 "owner": "osohq",
                 "repo": "oso",
-                "stars": 3491
+                "stars": 3491,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -743,12 +1381,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A SDK for access control policies: authorization for the microservice and IoT age. Inspired by AWS IAM policies. Written for Go.",
+                "homepage": "https://www.ory.com/?utm_source=github&utm_medium=banner&utm_campaign=ladon",
                 "id": 44393602,
                 "language": "Go",
-                "last_commit": "2025-10-22T16:06:57Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T18:57:19Z",
+                "open_issues": 2,
                 "owner": "ory",
                 "repo": "ladon",
-                "stars": 2457
+                "stars": 2457,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -759,12 +1402,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation",
+                "homepage": "https://zitadel.com",
                 "id": 221917370,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T06:45:28Z",
+                "open_issues": 40,
                 "owner": "zitadel",
                 "repo": "oidc",
-                "stars": 1875
+                "stars": 1878,
+                "topics": [
+                  "certified",
+                  "client",
+                  "code-flow",
+                  "code-flow-pkce",
+                  "discovery",
+                  "go",
+                  "golang",
+                  "jwt",
+                  "library",
+                  "oauth",
+                  "oauth2",
+                  "oidc",
+                  "openid-connect",
+                  "openidconnect",
+                  "pkce",
+                  "refresh-token",
+                  "relying-party",
+                  "server",
+                  "standard"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -775,12 +1443,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "goRBAC provides a lightweight role-based access control (RBAC) implementation in Golang.",
+                "homepage": null,
                 "id": 15450288,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-07-21T00:28:11Z",
+                "open_issues": 4,
                 "owner": "mikespook",
                 "repo": "gorbac",
-                "stars": 1674
+                "stars": 1675,
+                "topics": [
+                  "go",
+                  "rbac"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             }
@@ -798,12 +1474,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources.",
+                "homepage": "https://cerbos.dev",
                 "id": 350005438,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T09:24:57Z",
+                "open_issues": 56,
                 "owner": "cerbos",
                 "repo": "cerbos",
-                "stars": 4558
+                "stars": 4560,
+                "topics": [
+                  "access-control",
+                  "authorization",
+                  "go",
+                  "golang",
+                  "kubernetes",
+                  "policy",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -814,12 +1503,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deprecated: See README",
+                "homepage": null,
                 "id": 261283923,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2025-02-26T16:59:39Z",
+                "open_issues": 119,
                 "owner": "osohq",
                 "repo": "oso",
-                "stars": 3491
+                "stars": 3491,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -830,12 +1524,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An authorization library that supports access control models like ACL, RBAC, ABAC in Rust",
+                "homepage": "https://casbin.org",
                 "id": 202275988,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-13T06:03:25Z",
+                "open_issues": 3,
                 "owner": "apache",
                 "repo": "casbin-rs",
-                "stars": 1134
+                "stars": 1134,
+                "topics": [
+                  "abac",
+                  "access-control",
+                  "acl",
+                  "auth",
+                  "authorization",
+                  "authz",
+                  "casbin",
+                  "permission",
+                  "rbac",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             }
@@ -853,12 +1563,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A unified API to ask for permissions on iOS",
+                "homepage": null,
                 "id": 46357018,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2022-07-11T12:29:45Z",
+                "open_issues": 19,
                 "owner": "delba",
                 "repo": "Permission",
-                "stars": 2891
+                "stars": 2891,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -869,12 +1584,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Authgear authentication SDK for iOS platforms",
+                "homepage": "https://www.authgear.com/",
                 "id": 297219413,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2026-08-25T21:11:43Z",
+                "open_issues": 7,
                 "owner": "authgear",
                 "repo": "authgear-sdk-ios",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "authentication",
+                  "ios",
+                  "jwt",
+                  "mobile-library",
+                  "oauth2",
+                  "sdk",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             }
@@ -892,12 +1620,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources.",
+                "homepage": "https://cerbos.dev",
                 "id": 350005438,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T09:24:57Z",
+                "open_issues": 56,
                 "owner": "cerbos",
                 "repo": "cerbos",
-                "stars": 4558
+                "stars": 4560,
+                "topics": [
+                  "access-control",
+                  "authorization",
+                  "go",
+                  "golang",
+                  "kubernetes",
+                  "policy",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -908,12 +1649,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Shiro is a powerful and easy-to-use Java security framework that performs authentication, authorization, cryptography, and session management",
+                "homepage": "https://shiro.apache.org/",
                 "id": 291570,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T18:24:33Z",
+                "open_issues": 5,
                 "owner": "apache",
                 "repo": "shiro",
-                "stars": 4452
+                "stars": 4452,
+                "topics": [
+                  "java",
+                  "library",
+                  "shiro",
+                  "web-framework"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -924,12 +1675,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deprecated: See README",
+                "homepage": null,
                 "id": 261283923,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2025-02-26T16:59:39Z",
+                "open_issues": 119,
                 "owner": "osohq",
                 "repo": "oso",
-                "stars": 3491
+                "stars": 3491,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -940,12 +1696,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An authorization library that supports access control models like ACL, RBAC, ABAC in Java",
+                "homepage": "https://casbin.org",
                 "id": 102884447,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-12T03:26:53Z",
+                "open_issues": 4,
                 "owner": "apache",
                 "repo": "casbin-jcasbin",
-                "stars": 2652
+                "stars": 2652,
+                "topics": [
+                  "abac",
+                  "access-control",
+                  "acl",
+                  "auth",
+                  "authorization",
+                  "authz",
+                  "casbin",
+                  "java",
+                  "permission",
+                  "rbac",
+                  "xacml"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -956,12 +1729,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Security engine for Java (authentication, authorization, multi frameworks): OpenID Connect, SAML2, CAS, OAuth, LDAP, JWT...",
+                "homepage": "http://www.pac4j.org",
                 "id": 3291848,
                 "language": "Java",
-                "last_commit": "2026-08-28T09:52:20Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T01:12:53Z",
+                "open_issues": 2,
                 "owner": "pac4j",
                 "repo": "pac4j",
-                "stars": 2522
+                "stars": 2522,
+                "topics": [
+                  "authentication",
+                  "authorization",
+                  "cas",
+                  "dropwizard",
+                  "j2e",
+                  "java",
+                  "jax-rs",
+                  "jwt",
+                  "ldap",
+                  "oauth",
+                  "openid-connect",
+                  "play-framework",
+                  "ratpack",
+                  "saml",
+                  "security",
+                  "shiro",
+                  "sparkjava",
+                  "spring-mvc",
+                  "spring-security",
+                  "vertx"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -972,12 +1771,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Google Authenticator Server side code",
+                "homepage": null,
                 "id": 3148173,
                 "language": "Java",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-14T16:34:36Z",
+                "open_issues": 12,
                 "owner": "wstrange",
                 "repo": "GoogleAuth",
-                "stars": 1108
+                "stars": 1109,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -988,12 +1792,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AT&T implementation of OASIS XACML 3.0 Specification",
+                "homepage": null,
                 "id": 314328395,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2023-09-05T12:41:51Z",
+                "open_issues": 1,
                 "owner": "att",
                 "repo": "xacml-3.0",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             }
@@ -1011,12 +1820,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources.",
+                "homepage": "https://cerbos.dev",
                 "id": 350005438,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T09:24:57Z",
+                "open_issues": 56,
                 "owner": "cerbos",
                 "repo": "cerbos",
-                "stars": 4558
+                "stars": 4560,
+                "topics": [
+                  "access-control",
+                  "authorization",
+                  "go",
+                  "golang",
+                  "kubernetes",
+                  "policy",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -1027,12 +1849,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deprecated: See README",
+                "homepage": null,
                 "id": 261283923,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2025-02-26T16:59:39Z",
+                "open_issues": 119,
                 "owner": "osohq",
                 "repo": "oso",
-                "stars": 3491
+                "stars": 3491,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -1043,12 +1870,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An authorization library that supports access control models like ACL, RBAC, ABAC in Node.js and Browser",
+                "homepage": "https://casbin.org",
                 "id": 140996605,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-13T06:03:33Z",
+                "open_issues": 2,
                 "owner": "apache",
                 "repo": "casbin-node-casbin",
-                "stars": 2916
+                "stars": 2917,
+                "topics": [
+                  "abac",
+                  "access-control",
+                  "acl",
+                  "auth",
+                  "authorization",
+                  "authz",
+                  "casbin",
+                  "javascript",
+                  "js",
+                  "node",
+                  "nodejs",
+                  "permission",
+                  "permissions",
+                  "rbac"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -1059,12 +1906,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Role and Attribute based Access Control for Node.js",
+                "homepage": "onury.io/accesscontrol",
                 "id": 68128662,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-12T04:55:50Z",
+                "open_issues": 7,
                 "owner": "onury",
                 "repo": "accesscontrol",
-                "stars": 2327
+                "stars": 2327,
+                "topics": [
+                  "abac",
+                  "access-control",
+                  "acl",
+                  "attributes",
+                  "authorization",
+                  "nodejs",
+                  "permissions",
+                  "rbac",
+                  "roles",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -1075,12 +1938,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hierarchical Role Based Access Control for NodeJS",
+                "homepage": null,
                 "id": 18556263,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-03-28T19:49:59Z",
+                "open_issues": 0,
                 "owner": "seeden",
                 "repo": "rbac",
-                "stars": 1005
+                "stars": 1005,
+                "topics": [
+                  "auth",
+                  "authentication",
+                  "authorization",
+                  "javascript",
+                  "permissions",
+                  "rbac",
+                  "role",
+                  "role-based-access-control"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -1091,12 +1968,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Organize your authorization logic with full type-safety.",
+                "homepage": null,
                 "id": 901827577,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-10-22T18:22:25Z",
+                "open_issues": 1,
                 "owner": "fatihky",
                 "repo": "pundit-ts",
-                "stars": 97
+                "stars": 97,
+                "topics": [
+                  "authorization"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -1107,12 +1991,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Attribute based access control for Node.js.",
+                "homepage": null,
                 "id": 17388455,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2014-03-04T03:01:52Z",
+                "open_issues": 0,
                 "owner": "vovantics",
                 "repo": "abac",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             }
@@ -1130,12 +2019,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Associate users with roles and permissions",
+                "homepage": "https://spatie.be/docs/laravel-permission",
                 "id": 42480275,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-24T14:14:44Z",
+                "open_issues": 6,
                 "owner": "spatie",
                 "repo": "laravel-permission",
-                "stars": 12964
+                "stars": 12964,
+                "topics": [
+                  "laravel",
+                  "permission",
+                  "php",
+                  "secure"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -1146,12 +2045,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources.",
+                "homepage": "https://cerbos.dev",
                 "id": 350005438,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T09:24:57Z",
+                "open_issues": 56,
                 "owner": "cerbos",
                 "repo": "cerbos",
-                "stars": 4558
+                "stars": 4560,
+                "topics": [
+                  "access-control",
+                  "authorization",
+                  "go",
+                  "golang",
+                  "kubernetes",
+                  "policy",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -1162,12 +2074,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An authorization library that supports access control models like ACL, RBAC, ABAC in PHP .",
+                "homepage": "https://casbin.org",
                 "id": 153135401,
                 "language": "PHP",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-12T03:09:39Z",
+                "open_issues": 0,
                 "owner": "php-casbin",
                 "repo": "php-casbin",
-                "stars": 1335
+                "stars": 1335,
+                "topics": [
+                  "abac",
+                  "access-control",
+                  "acl",
+                  "auth",
+                  "authorization",
+                  "framework",
+                  "middlewares",
+                  "permission",
+                  "php",
+                  "rbac",
+                  "roles",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -1178,12 +2108,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PHP-RBAC is an authorization library for PHP. It provides developers with NIST Level 2 Standard Role Based Access Control and more, in the fastest implementation yet.",
+                "homepage": "http://phprbac.net/",
                 "id": 12076971,
                 "language": "PHP",
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-19T19:45:07Z",
+                "open_issues": 58,
                 "owner": "OWASP",
                 "repo": "rbac",
-                "stars": 436
+                "stars": 436,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -1194,12 +2129,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Attributes Based Access Control library",
+                "homepage": null,
                 "id": 46063907,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2019-07-23T13:08:54Z",
+                "open_issues": 15,
                 "owner": "CraftCamp",
                 "repo": "php-abac",
-                "stars": 98
+                "stars": 98,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -1210,12 +2150,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple yet easy to implement Role Based Access Control Library for popular PHP framework Codeigniter",
+                "homepage": "http://xiidea.github.io/ezRbac/",
                 "id": 3612347,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2019-02-06T01:28:45Z",
+                "open_issues": 8,
                 "owner": "xiidea",
                 "repo": "ezRbac",
-                "stars": 85
+                "stars": 85,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -1226,12 +2171,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 93551803,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2022-12-26T20:15:23Z",
+                "open_issues": 5,
                 "owner": "ordermind",
                 "repo": "symfony-logical-authorization-bundle",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -1242,12 +2192,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 48232477,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2021-01-06T10:44:36Z",
+                "open_issues": 0,
                 "owner": "ordermind",
                 "repo": "logical-permissions-php",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "permissions",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             }
@@ -1265,12 +2223,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources.",
+                "homepage": "https://cerbos.dev",
                 "id": 350005438,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T09:24:57Z",
+                "open_issues": 56,
                 "owner": "cerbos",
                 "repo": "cerbos",
-                "stars": 4558
+                "stars": 4560,
+                "topics": [
+                  "access-control",
+                  "authorization",
+                  "go",
+                  "golang",
+                  "kubernetes",
+                  "policy",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -1281,12 +2252,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deprecated: See README",
+                "homepage": null,
                 "id": 261283923,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2025-02-26T16:59:39Z",
+                "open_issues": 119,
                 "owner": "osohq",
                 "repo": "oso",
-                "stars": 3491
+                "stars": 3491,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -1297,12 +2273,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An authorization library that supports access control models like ACL, RBAC, ABAC in Python",
+                "homepage": "https://casbin.org",
                 "id": 149631013,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-13T05:58:49Z",
+                "open_issues": 3,
                 "owner": "apache",
                 "repo": "casbin-pycasbin",
-                "stars": 1764
+                "stars": 1764,
+                "topics": [
+                  "abac",
+                  "access-control",
+                  "acl",
+                  "auth",
+                  "authorization",
+                  "authz",
+                  "casbin",
+                  "permission",
+                  "pycasbin",
+                  "python",
+                  "rbac"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -1313,12 +2306,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Flask-RBAC",
+                "homepage": "https://flask-rbac.readthedocs.org/",
                 "id": 14561630,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-02-20T22:46:45Z",
+                "open_issues": 15,
                 "owner": "shonenada",
                 "repo": "flask-rbac",
-                "stars": 233
+                "stars": 233,
+                "topics": [
+                  "flask",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -1329,12 +2330,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Attribute-based access control (ABAC) SDK for Python",
+                "homepage": null,
                 "id": 115222029,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-02T10:30:18Z",
+                "open_issues": 8,
                 "owner": "kolotaev",
                 "repo": "vakt",
-                "stars": 194
+                "stars": 194,
+                "topics": [
+                  "abac",
+                  "access-control",
+                  "acl",
+                  "attribute-based-access-control",
+                  "authorization",
+                  "authz",
+                  "iam-policy",
+                  "permission",
+                  "permissions",
+                  "policy-management",
+                  "python",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -1345,12 +2364,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Authorization decorator factory for FastAPI based on Casbin. No middleware, no extra dependencies in route signatures.",
+                "homepage": null,
                 "id": 1154161001,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-20T22:52:00Z",
+                "open_issues": 3,
                 "owner": "Neko1313",
                 "repo": "casbin-fastapi-decorator",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "abac",
+                  "access-control",
+                  "authorization",
+                  "casbin",
+                  "casdoor",
+                  "decorators",
+                  "fastapi",
+                  "fastapi-decorator",
+                  "jwt",
+                  "middleware",
+                  "permissions",
+                  "python",
+                  "python3",
+                  "rbac",
+                  "sqlalchemy"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             }
@@ -1368,12 +2408,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Minimal authorization through OO design and pure Ruby classes",
+                "homepage": null,
                 "id": 6529205,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-08-28T08:16:33Z",
+                "open_issues": 13,
                 "owner": "varvet",
                 "repo": "pundit",
-                "stars": 8522
+                "stars": 8522,
+                "topics": [
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -1384,12 +2431,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The authorization Gem for Ruby on Rails.",
+                "homepage": null,
                 "id": 16994115,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-08-09T13:29:52Z",
+                "open_issues": 92,
                 "owner": "CanCanCommunity",
                 "repo": "cancancan",
-                "stars": 5686
+                "stars": 5686,
+                "topics": [
+                  "authorization",
+                  "cancancan",
+                  "rails"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -1400,12 +2456,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources.",
+                "homepage": "https://cerbos.dev",
                 "id": 350005438,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T09:24:57Z",
+                "open_issues": 56,
                 "owner": "cerbos",
                 "repo": "cerbos",
-                "stars": 4558
+                "stars": 4560,
+                "topics": [
+                  "access-control",
+                  "authorization",
+                  "go",
+                  "golang",
+                  "kubernetes",
+                  "policy",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -1416,12 +2485,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deprecated: See README",
+                "homepage": null,
                 "id": 261283923,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2025-02-26T16:59:39Z",
+                "open_issues": 119,
                 "owner": "osohq",
                 "repo": "oso",
-                "stars": 3491
+                "stars": 3491,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             },
@@ -1432,12 +2506,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An authorization library that supports access control models like ACL, RBAC, ABAC in Ruby",
+                "homepage": null,
                 "id": 367539952,
                 "language": "Ruby",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-18T06:22:56Z",
+                "open_issues": 1,
                 "owner": "CasbinRuby",
                 "repo": "casbin-ruby",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
             }
@@ -1459,12 +2538,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.",
+            "homepage": "https://docs.composio.dev",
             "id": 762304524,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T12:45:32Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:08:46Z",
+            "open_issues": 71,
             "owner": "ComposioHQ",
             "repo": "composio",
-            "stars": 29915
+            "stars": 29925,
+            "topics": [
+              "agentic-ai",
+              "agents",
+              "ai",
+              "ai-agents",
+              "aiagents",
+              "developer-tools",
+              "function-calling",
+              "gpt-4",
+              "javascript",
+              "js",
+              "llm",
+              "llmops",
+              "mcp",
+              "python",
+              "remote-mcp-server",
+              "sse",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T12:57:39.916Z"
         },
@@ -1475,12 +2577,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build product integrations with AI.",
+            "homepage": "https://nango.dev",
             "id": 254328371,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T12:53:56Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T00:37:18Z",
+            "open_issues": 121,
             "owner": "NangoHQ",
             "repo": "nango",
-            "stars": 11625
+            "stars": 11632,
+            "topics": [
+              "access-token",
+              "api",
+              "api-client",
+              "api-integration",
+              "api-integrations",
+              "integrations",
+              "oauth",
+              "oauth1",
+              "oauth2",
+              "product-integration",
+              "refresh-token",
+              "unified-api"
+            ]
           },
           "first_seen": "2026-08-28T12:57:39.916Z"
         },
@@ -1491,12 +2611,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources.",
+            "homepage": "https://cerbos.dev",
             "id": 350005438,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T09:24:57Z",
+            "open_issues": 56,
             "owner": "cerbos",
             "repo": "cerbos",
-            "stars": 4558
+            "stars": 4560,
+            "topics": [
+              "access-control",
+              "authorization",
+              "go",
+              "golang",
+              "kubernetes",
+              "policy",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T12:57:39.916Z"
         },
@@ -1507,12 +2640,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP Server Framework and Tool Development library for building custom capabilities into agents. ",
+            "homepage": "https://docs.arcade.dev",
             "id": 792542977,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T23:09:22Z",
+            "open_issues": 25,
             "owner": "ArcadeAI",
             "repo": "arcade-mcp",
-            "stars": 1010
+            "stars": 1010,
+            "topics": [
+              "ai",
+              "arcade",
+              "arcade-ai",
+              "claude",
+              "claude-code",
+              "claude-mcp",
+              "mcp",
+              "mcp-framework",
+              "mcp-gateway",
+              "mcp-runtime",
+              "mcp-server",
+              "mcp-servers",
+              "mcp-tools",
+              "mcpserver",
+              "model-context-protocol",
+              "model-context-protocol-sdk",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T12:57:39.916Z"
         },
@@ -1523,12 +2679,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Credential gateway for AI agents. Log in once via Oauth2 or API Key. Every agent stays authenticated — headless, no SaaS, agents never see your credentials.",
+            "homepage": "https://authsome.ai/docs",
             "id": 1212456937,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-24T23:13:46Z",
+            "open_issues": 11,
             "owner": "agentrhq",
             "repo": "authsome",
-            "stars": 84
+            "stars": 84,
+            "topics": [
+              "agent-identity",
+              "agent-security",
+              "ai-agents",
+              "api-keys",
+              "authentication",
+              "claude-code",
+              "cli",
+              "credential-manager",
+              "developer-tools",
+              "headless",
+              "hermes-agent",
+              "llm",
+              "local-first",
+              "mcp",
+              "oauth2",
+              "openclaw",
+              "python",
+              "secrets-management",
+              "security-tools",
+              "vault"
+            ]
           },
           "first_seen": "2026-08-28T12:57:39.916Z"
         }
@@ -1537,15 +2719,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T12:57:39.916Z",
+    "last_updated": "2026-08-29T04:42:13.098Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome list for authentication and authorization",
+      "homepage": "https://github.com/casdoor/awesome-auth",
       "id": 89893980,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-15T03:48:23Z",
+      "open_issues": 0,
       "owner": "casdoor",
       "repo": "awesome-auth",
-      "stars": 539
+      "stars": 540,
+      "topics": [
+        "auth",
+        "authentication",
+        "authn",
+        "authorization",
+        "authz",
+        "awesome",
+        "awesome-list",
+        "awesome-lists"
+      ]
     },
     "original_repository_sha": "aab97ee060828313f972a3ca9d746eb44cf88254",
     "enhanced_repository": "enhansome/enhansome-auth",

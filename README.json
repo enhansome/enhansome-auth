@@ -10,16 +10,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™",
+            "description": "The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.",
             "homepage": "https://www.authelia.com",
             "id": 75785240,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T05:09:39Z",
-            "open_issues": 130,
+            "last_commit": "2026-09-06T01:08:29Z",
+            "open_issues": 131,
             "owner": "authelia",
             "repo": "authelia",
-            "stars": 28800,
+            "stars": 28808,
             "topics": [
               "2fa",
               "authentication",
@@ -58,10 +58,10 @@
             "language": "Go",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-04T16:15:10Z",
-            "open_issues": 1154,
+            "open_issues": 1156,
             "owner": "zitadel",
             "repo": "zitadel",
-            "stars": 14945,
+            "stars": 14946,
             "topics": [
               "2fa",
               "authentication",
@@ -96,11 +96,11 @@
             "id": 378310716,
             "language": "TypeScript",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-05T03:10:22Z",
-            "open_issues": 175,
+            "last_commit": "2026-09-05T21:10:39Z",
+            "open_issues": 176,
             "owner": "logto-io",
             "repo": "logto",
-            "stars": 14499,
+            "stars": 14506,
             "topics": [
               "authentication",
               "authorization",
@@ -138,11 +138,11 @@
             "id": 306366900,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T03:38:02Z",
-            "open_issues": 96,
+            "last_commit": "2026-09-05T15:36:00Z",
+            "open_issues": 97,
             "owner": "casdoor",
             "repo": "casdoor",
-            "stars": 14344,
+            "stars": 14347,
             "topics": [
               "agent",
               "agentic-ai",
@@ -181,7 +181,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-31T19:42:23Z",
-            "open_issues": 22,
+            "open_issues": 23,
             "owner": "cdelmonte-zg",
             "repo": "nanoidp",
             "stars": 23,
@@ -226,7 +226,7 @@
                 "open_issues": 18,
                 "owner": "aspnet-contrib",
                 "repo": "AspNet.Security.OAuth.Providers",
-                "stars": 2508,
+                "stars": 2509,
                 "topics": [
                   "aspnetcore",
                   "oauth2",
@@ -410,7 +410,7 @@
                 "open_issues": 96,
                 "owner": "ory",
                 "repo": "hydra",
-                "stars": 17519,
+                "stars": 17521,
                 "topics": [
                   "authorization",
                   "cloud",
@@ -449,10 +449,10 @@
                 "language": "Go",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-04T16:15:10Z",
-                "open_issues": 1154,
+                "open_issues": 1156,
                 "owner": "zitadel",
                 "repo": "zitadel",
-                "stars": 14945,
+                "stars": 14946,
                 "topics": [
                   "2fa",
                   "authentication",
@@ -487,11 +487,11 @@
                 "id": 306366900,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-05T03:38:02Z",
-                "open_issues": 96,
+                "last_commit": "2026-09-05T15:36:00Z",
+                "open_issues": 97,
                 "owner": "casdoor",
                 "repo": "casdoor",
-                "stars": 14344,
+                "stars": 14347,
                 "topics": [
                   "agent",
                   "agentic-ai",
@@ -533,7 +533,7 @@
                 "open_issues": 222,
                 "owner": "ory",
                 "repo": "kratos",
-                "stars": 13867,
+                "stars": 13866,
                 "topics": [
                   "hacktoberfest",
                   "identity",
@@ -566,7 +566,7 @@
                 "open_issues": 107,
                 "owner": "ory",
                 "repo": "oathkeeper",
-                "stars": 3596,
+                "stars": 3597,
                 "topics": [
                   "api-gateway",
                   "golang",
@@ -596,7 +596,7 @@
                 "open_issues": 61,
                 "owner": "ory",
                 "repo": "fosite",
-                "stars": 2614,
+                "stars": 2613,
                 "topics": [
                   "auth",
                   "authentication",
@@ -626,10 +626,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-04T11:19:38Z",
-                "open_issues": 38,
+                "open_issues": 39,
                 "owner": "zitadel",
                 "repo": "oidc",
-                "stars": 1884,
+                "stars": 1885,
                 "topics": [
                   "certified",
                   "client",
@@ -773,7 +773,7 @@
                 "open_issues": 398,
                 "owner": "jaredhanson",
                 "repo": "passport",
-                "stars": 23534,
+                "stars": 23533,
                 "topics": [
                   "express",
                   "nodejs",
@@ -891,7 +891,7 @@
                 "id": 66776276,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-05T01:30:28Z",
+                "last_commit": "2026-09-05T17:49:59Z",
                 "open_issues": 58,
                 "owner": "python-social-auth",
                 "repo": "social-core",
@@ -923,7 +923,7 @@
                 "open_issues": 0,
                 "owner": "openstack",
                 "repo": "keystone",
-                "stars": 718,
+                "stars": 717,
                 "topics": [
                   "service"
                 ]
@@ -1114,10 +1114,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-03T15:37:48Z",
-                "open_issues": 56,
+                "open_issues": 57,
                 "owner": "cerbos",
                 "repo": "cerbos",
-                "stars": 4572,
+                "stars": 4575,
                 "topics": [
                   "access-control",
                   "authorization",
@@ -1185,7 +1185,7 @@
                 "open_issues": 45,
                 "owner": "apache",
                 "repo": "casbin",
-                "stars": 20372,
+                "stars": 20371,
                 "topics": [
                   "abac",
                   "access-control",
@@ -1222,10 +1222,10 @@
                 "language": "Go",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-04T16:15:10Z",
-                "open_issues": 1154,
+                "open_issues": 1156,
                 "owner": "zitadel",
                 "repo": "zitadel",
-                "stars": 14945,
+                "stars": 14946,
                 "topics": [
                   "2fa",
                   "authentication",
@@ -1337,10 +1337,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-03T15:37:48Z",
-                "open_issues": 56,
+                "open_issues": 57,
                 "owner": "cerbos",
                 "repo": "cerbos",
-                "stars": 4572,
+                "stars": 4575,
                 "topics": [
                   "access-control",
                   "authorization",
@@ -1369,7 +1369,7 @@
                 "open_issues": 119,
                 "owner": "osohq",
                 "repo": "oso",
-                "stars": 3489,
+                "stars": 3490,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
@@ -1408,10 +1408,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-04T11:19:38Z",
-                "open_issues": 38,
+                "open_issues": 39,
                 "owner": "zitadel",
                 "repo": "oidc",
-                "stars": 1884,
+                "stars": 1885,
                 "topics": [
                   "certified",
                   "client",
@@ -1480,10 +1480,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-03T15:37:48Z",
-                "open_issues": 56,
+                "open_issues": 57,
                 "owner": "cerbos",
                 "repo": "cerbos",
-                "stars": 4572,
+                "stars": 4575,
                 "topics": [
                   "access-control",
                   "authorization",
@@ -1512,7 +1512,7 @@
                 "open_issues": 119,
                 "owner": "osohq",
                 "repo": "oso",
-                "stars": 3489,
+                "stars": 3490,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
@@ -1626,10 +1626,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-03T15:37:48Z",
-                "open_issues": 56,
+                "open_issues": 57,
                 "owner": "cerbos",
                 "repo": "cerbos",
-                "stars": 4572,
+                "stars": 4575,
                 "topics": [
                   "access-control",
                   "authorization",
@@ -1684,7 +1684,7 @@
                 "open_issues": 119,
                 "owner": "osohq",
                 "repo": "oso",
-                "stars": 3489,
+                "stars": 3490,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
@@ -1826,10 +1826,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-03T15:37:48Z",
-                "open_issues": 56,
+                "open_issues": 57,
                 "owner": "cerbos",
                 "repo": "cerbos",
-                "stars": 4572,
+                "stars": 4575,
                 "topics": [
                   "access-control",
                   "authorization",
@@ -1858,7 +1858,7 @@
                 "open_issues": 119,
                 "owner": "osohq",
                 "repo": "oso",
-                "stars": 3489,
+                "stars": 3490,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
@@ -2051,10 +2051,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-03T15:37:48Z",
-                "open_issues": 56,
+                "open_issues": 57,
                 "owner": "cerbos",
                 "repo": "cerbos",
-                "stars": 4572,
+                "stars": 4575,
                 "topics": [
                   "access-control",
                   "authorization",
@@ -2079,7 +2079,7 @@
                 "id": 153135401,
                 "language": "PHP",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-12T03:09:39Z",
+                "last_commit": "2026-09-06T05:20:07Z",
                 "open_issues": 0,
                 "owner": "php-casbin",
                 "repo": "php-casbin",
@@ -2229,10 +2229,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-03T15:37:48Z",
-                "open_issues": 56,
+                "open_issues": 57,
                 "owner": "cerbos",
                 "repo": "cerbos",
-                "stars": 4572,
+                "stars": 4575,
                 "topics": [
                   "access-control",
                   "authorization",
@@ -2261,7 +2261,7 @@
                 "open_issues": 119,
                 "owner": "osohq",
                 "repo": "oso",
-                "stars": 3489,
+                "stars": 3490,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
@@ -2417,7 +2417,7 @@
                 "open_issues": 13,
                 "owner": "varvet",
                 "repo": "pundit",
-                "stars": 8521,
+                "stars": 8520,
                 "topics": [
                   "ruby"
                 ]
@@ -2440,7 +2440,7 @@
                 "open_issues": 92,
                 "owner": "CanCanCommunity",
                 "repo": "cancancan",
-                "stars": 5684,
+                "stars": 5683,
                 "topics": [
                   "authorization",
                   "cancancan",
@@ -2462,10 +2462,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-03T15:37:48Z",
-                "open_issues": 56,
+                "open_issues": 57,
                 "owner": "cerbos",
                 "repo": "cerbos",
-                "stars": 4572,
+                "stars": 4575,
                 "topics": [
                   "access-control",
                   "authorization",
@@ -2494,7 +2494,7 @@
                 "open_issues": 119,
                 "owner": "osohq",
                 "repo": "oso",
-                "stars": 3489,
+                "stars": 3490,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:39.916Z"
@@ -2543,11 +2543,11 @@
             "id": 762304524,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-05T01:11:12Z",
-            "open_issues": 84,
+            "last_commit": "2026-09-06T00:06:22Z",
+            "open_issues": 86,
             "owner": "ComposioHQ",
             "repo": "composio",
-            "stars": 30058,
+            "stars": 30075,
             "topics": [
               "agentic-ai",
               "agents",
@@ -2586,7 +2586,7 @@
             "open_issues": 127,
             "owner": "NangoHQ",
             "repo": "nango",
-            "stars": 11726,
+            "stars": 11738,
             "topics": [
               "access-token",
               "api",
@@ -2617,10 +2617,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-03T15:37:48Z",
-            "open_issues": 56,
+            "open_issues": 57,
             "owner": "cerbos",
             "repo": "cerbos",
-            "stars": 4572,
+            "stars": 4575,
             "topics": [
               "access-control",
               "authorization",
@@ -2649,7 +2649,7 @@
             "open_issues": 19,
             "owner": "ArcadeAI",
             "repo": "arcade-mcp",
-            "stars": 1019,
+            "stars": 1020,
             "topics": [
               "ai",
               "arcade",
@@ -2719,7 +2719,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T05:51:05.465Z",
+    "last_updated": "2026-09-06T06:02:24.791Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list for authentication and authorization",
@@ -2731,7 +2731,7 @@
       "open_issues": 0,
       "owner": "casdoor",
       "repo": "awesome-auth",
-      "stars": 541,
+      "stars": 542,
       "topics": [
         "auth",
         "authentication",

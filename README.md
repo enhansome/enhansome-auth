@@ -35,10 +35,10 @@
 
 ## SSO (Single-Sign-On), IAM (Identity Access Management)
 
-* [Authelia](https://github.com/authelia/authelia) ⭐ 29,165 | 🐛 124 | 🌐 Go | 📅 2026-10-04 - The Single Sign-On Multi-Factor portal for web apps.
-* [ZITADEL](https://github.com/caos/zitadel) ⭐ 15,183 | 🐛 1,244 | 🌐 Go | 📅 2026-10-02 - Cloud-native Identity & Access Management platform for secure authentication, authorization and identity management.
-* [Logto](https://github.com/logto-io/logto) ⭐ 14,649 | 🐛 156 | 🌐 TypeScript | 📅 2026-10-01 - An IAM infrastructure with AuthN, AuthZ, MFA, SSO, user management, and multi-tenancy features, supporting OAuth 2.0, OIDC, and SAML.
-* [Casdoor](https://github.com/casdoor/casdoor) ⭐ 14,506 | 🐛 97 | 🌐 Go | 📅 2026-10-03 - UI-first centralized authentication / Single-Sign-On (SSO) platform supporting OAuth 2.0 / OIDC and SAML.
+* [Authelia](https://github.com/authelia/authelia) ⭐ 29,174 | 🐛 123 | 🌐 Go | 📅 2026-10-05 - The Single Sign-On Multi-Factor portal for web apps.
+* [ZITADEL](https://github.com/caos/zitadel) ⭐ 15,197 | 🐛 1,246 | 🌐 Go | 📅 2026-10-02 - Cloud-native Identity & Access Management platform for secure authentication, authorization and identity management.
+* [Logto](https://github.com/logto-io/logto) ⭐ 14,652 | 🐛 156 | 🌐 TypeScript | 📅 2026-10-01 - An IAM infrastructure with AuthN, AuthZ, MFA, SSO, user management, and multi-tenancy features, supporting OAuth 2.0, OIDC, and SAML.
+* [Casdoor](https://github.com/casdoor/casdoor) ⭐ 14,511 | 🐛 98 | 🌐 Go | 📅 2026-10-05 - UI-first centralized authentication / Single-Sign-On (SSO) platform supporting OAuth 2.0 / OIDC and SAML.
 * [NanoIDP](https://github.com/cdelmonte-zg/nanoidp) ⭐ 24 | 🐛 10 | 🌐 Python | 📅 2026-09-30 - Local development Identity Provider for testing OAuth2, OpenID Connect, and SAML flows without running a full IAM stack.
 * [Keycloak](https://www.keycloak.org/) - Open Source Identity and Access Management.
 * [Authentik](https://goauthentik.io) - authentik is an open-source Identity Provider that emphasizes flexibility and versatility. It can be seamlessly integrated into existing environments to support new protocols.
@@ -63,23 +63,23 @@
 
 ### <a name="authN-golang"></a>Golang
 
-* [Ory Hydra](https://github.com/ory/hydra) ⭐ 17,588 | 🐛 95 | 🌐 Go | 📅 2026-07-29 - OpenID Connect certified OAuth2 server.
-* [ZITADEL](https://github.com/caos/zitadel) ⭐ 15,183 | 🐛 1,244 | 🌐 Go | 📅 2026-10-02 - Cloud-native Identity & Access Management platform for secure authentication, authorization and identity management.
-* [Casdoor](https://github.com/casdoor/casdoor) ⭐ 14,506 | 🐛 97 | 🌐 Go | 📅 2026-10-03 - UI-first centralized authentication / Single-Sign-On (SSO) platform supporting OAuth 2.0 / OIDC and SAML.
-* [Ory Kratos](https://github.com/ory/kratos) ⭐ 13,906 | 🐛 233 | 🌐 Go | 📅 2026-07-29 - API-first Identity and User Management system built for cloud applications.
+* [Ory Hydra](https://github.com/ory/hydra) ⭐ 17,589 | 🐛 95 | 🌐 Go | 📅 2026-07-29 - OpenID Connect certified OAuth2 server.
+* [ZITADEL](https://github.com/caos/zitadel) ⭐ 15,197 | 🐛 1,246 | 🌐 Go | 📅 2026-10-02 - Cloud-native Identity & Access Management platform for secure authentication, authorization and identity management.
+* [Casdoor](https://github.com/casdoor/casdoor) ⭐ 14,511 | 🐛 98 | 🌐 Go | 📅 2026-10-05 - UI-first centralized authentication / Single-Sign-On (SSO) platform supporting OAuth 2.0 / OIDC and SAML.
+* [Ory Kratos](https://github.com/ory/kratos) ⭐ 13,907 | 🐛 233 | 🌐 Go | 📅 2026-07-29 - API-first Identity and User Management system built for cloud applications.
 * [Ory Oathkeeper](https://github.com/ory/oathkeeper) ⭐ 3,608 | 🐛 107 | 🌐 Go | 📅 2026-07-27 - Identity/Access proxy inspired by the BeyondCorp/Zero-Trust white paper.
 * [Ory Fosite](https://github.com/ory/fosite) ⭐ 2,624 | 🐛 63 | 🌐 Go | 📅 2025-11-20 - Extensible OAuth 2.0 and OpenID Connect SDK for Golang.
-* [OIDC](https://github.com/caos/oidc) ⭐ 1,899 | 🐛 33 | 🌐 Go | 📅 2026-10-02 - OpenID Connect Library (client and server) for Go
+* [OIDC](https://github.com/caos/oidc) ⭐ 1,900 | 🐛 33 | 🌐 Go | 📅 2026-10-02 - OpenID Connect Library (client and server) for Go
 
 ### <a name="authN-java"></a>Java
 
 * [Spring Security OAuth](https://github.com/spring-projects/spring-security-oauth) ⚠️ Archived - Provides support for using Spring Security with OAuth (1a) and OAuth2.
 * [Apache Shiro](https://github.com/apache/shiro) ⭐ 4,460 | 🐛 6 | 🌐 Java | 📅 2026-10-01 - Powerful and easy-to-use Java security framework that performs authentication, authorization, cryptography, and session management.
-* [pac4j](https://github.com/pac4j/pac4j) ⭐ 2,530 | 🐛 2 | 🌐 Java | 📅 2026-10-03 - Security engine for Java (authentication, authorization, multi frameworks): OAuth, CAS, SAML, OpenID Connect, LDAP, JWT.
+* [pac4j](https://github.com/pac4j/pac4j) ⭐ 2,531 | 🐛 2 | 🌐 Java | 📅 2026-10-05 - Security engine for Java (authentication, authorization, multi frameworks): OAuth, CAS, SAML, OpenID Connect, LDAP, JWT.
 
 ### <a name="authN-node"></a>Node.js
 
-* [Passport](https://github.com/jaredhanson/passport) ⭐ 23,525 | 🐛 398 | 🌐 JavaScript | 📅 2024-08-16 - Simple, unobtrusive authentication for Node.js. A comprehensive set of strategies support authentication using a username and password, Facebook, Twitter, and more.
+* [Passport](https://github.com/jaredhanson/passport) ⭐ 23,527 | 🐛 398 | 🌐 JavaScript | 📅 2024-08-16 - Simple, unobtrusive authentication for Node.js. A comprehensive set of strategies support authentication using a username and password, Facebook, Twitter, and more.
 * [bell](https://github.com/hapijs/bell) ⭐ 615 | 🐛 12 | 🌐 JavaScript | 📅 2026-09-09 - Third-party authentication plugin for hapi. Ships with built-in support for various well-known sites and simple configuration object will support other OAuth 1.0a and OAuth 2.0 sites.
 * [client-certificate-auth](https://github.com/tgies/client-certificate-auth) ⭐ 79 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-03 - Mutual TLS (mTLS) client certificate authentication middleware for Node.js with reverse proxy support, composable verification callbacks, and X.509 certificate parsing.
 * [Stack Auth](https://stack-auth.com) - Open-source authN & authZ for modern web apps, comes with pre-built components for Next.js.
@@ -87,7 +87,7 @@
 ### <a name="authN-python"></a>Python
 
 * [Authomatic](https://github.com/authomatic/authomatic) ⭐ 1,055 | 🐛 65 | 🌐 Python | 📅 2025-12-12 - Simple yet powerful authorization & authentication client library for Python web applications.
-* [Python Social Auth](https://github.com/python-social-auth/social-core) ⭐ 924 | 🐛 38 | 🌐 Python | 📅 2026-10-04 - Easy to setup social authentication/registration mechanism with support for several frameworks and auth providers.
+* [Python Social Auth](https://github.com/python-social-auth/social-core) ⭐ 924 | 🐛 37 | 🌐 Python | 📅 2026-10-05 - Easy to setup social authentication/registration mechanism with support for several frameworks and auth providers.
 * [Keystone](https://github.com/openstack/keystone) ⭐ 716 | 🐛 0 | 🌐 Python | 📅 2026-10-02 - Provides authentication, authorization and service discovery mechanisms via HTTP primarily for use by projects in the OpenStack family.
 * [Raider](https://github.com/OWASP/raider) ⭐ 100 | 🐛 54 | 🌐 Python | 📅 2023-07-20 - Web authentication testing framework, which treats the authentication process as finite state machines.
 
@@ -103,30 +103,30 @@
 
 ### <a name="authZ-android"></a>Android
 
-* [AndPermission](https://github.com/yanzhenjie/AndPermission) ⭐ 6,619 | 🐛 176 | 🌐 Java | 📅 2024-01-04 - Android runtime permission, support the right to apply for permission at any place.
+* [AndPermission](https://github.com/yanzhenjie/AndPermission) ⭐ 6,620 | 🐛 176 | 🌐 Java | 📅 2024-01-04 - Android runtime permission, support the right to apply for permission at any place.
 * [Authgear SDK for Android](https://github.com/authgear/authgear-sdk-android) ⭐ 3 | 🐛 12 | 🌐 Kotlin | 📅 2026-09-26 - Android SDK to authenticate and authorize users based on the OAuth 2.0 authorization framework.
 
 ### <a name="authZ-cSharp"></a>C\#
 
-* [Cerbos](https://github.com/cerbos/cerbos) ⭐ 4,609 | 🐛 59 | 🌐 Go | 📅 2026-10-02 - Open-source authorization layer with a .NET SDK for RBAC, ABAC, and PBAC policies evaluated at runtime.
+* [Cerbos](https://github.com/cerbos/cerbos) ⭐ 4,609 | 🐛 62 | 🌐 Go | 📅 2026-10-05 - Open-source authorization layer with a .NET SDK for RBAC, ABAC, and PBAC policies evaluated at runtime.
 * [Casbin.NET](https://github.com/casbin/Casbin.NET) ⭐ 1,338 | 🐛 7 | 🌐 C# | 📅 2026-08-15 - Authorization library that supports access control models like ACL, RBAC, ABAC in .NET (C#).
 
 ### <a name="authZ-golang"></a>Golang
 
-* [Casbin](https://github.com/casbin/casbin) ⭐ 20,412 | 🐛 40 | 🌐 Go | 📅 2026-09-11 - Authorization library that supports access control models like ACL, RBAC, ABAC in Golang.
-* [ZITADEL](https://github.com/zitadel/zitadel) ⭐ 15,183 | 🐛 1,244 | 🌐 Go | 📅 2026-10-02 - Cloud-native Identity & Access Management platform for secure authentication, authorization and identity management.
-* [SpiceDB](https://github.com/authzed/spicedb) ⭐ 7,116 | 🐛 164 | 🌐 Go | 📅 2026-10-02 - Open-source implementation of the Zanzibar paper, a performant database for fine-grained permissions.
-* [Ory Keto](https://github.com/ory/keto) ⭐ 5,407 | 🐛 75 | 🌐 Go | 📅 2026-09-04 - Access control server capable of solving complex use cases (multi-tenant, attribute-based access control, etc.) with access control policies.
-* [Cerbos](https://github.com/cerbos/cerbos) ⭐ 4,609 | 🐛 59 | 🌐 Go | 📅 2026-10-02 - Open-source authorization layer with a Go SDK for RBAC, ABAC, and PBAC policies evaluated at runtime.
+* [Casbin](https://github.com/casbin/casbin) ⭐ 20,426 | 🐛 39 | 🌐 Go | 📅 2026-10-05 - Authorization library that supports access control models like ACL, RBAC, ABAC in Golang.
+* [ZITADEL](https://github.com/zitadel/zitadel) ⭐ 15,197 | 🐛 1,246 | 🌐 Go | 📅 2026-10-02 - Cloud-native Identity & Access Management platform for secure authentication, authorization and identity management.
+* [SpiceDB](https://github.com/authzed/spicedb) ⭐ 7,120 | 🐛 166 | 🌐 Go | 📅 2026-10-02 - Open-source implementation of the Zanzibar paper, a performant database for fine-grained permissions.
+* [Ory Keto](https://github.com/ory/keto) ⭐ 5,408 | 🐛 75 | 🌐 Go | 📅 2026-09-04 - Access control server capable of solving complex use cases (multi-tenant, attribute-based access control, etc.) with access control policies.
+* [Cerbos](https://github.com/cerbos/cerbos) ⭐ 4,609 | 🐛 62 | 🌐 Go | 📅 2026-10-05 - Open-source authorization layer with a Go SDK for RBAC, ABAC, and PBAC policies evaluated at runtime.
 * [Oso](https://github.com/osohq/oso) ⭐ 3,490 | 🐛 119 | 🌐 Rust | 📅 2025-02-26 - Batteries-included framework for building authorization in your Go application.
 * [Ladon](https://github.com/ory/ladon) ⭐ 2,459 | 🐛 2 | 🌐 Go | 📅 2026-09-30 - SDK for access control policies: authorization for the microservice and IoT age.
-* [OIDC](https://github.com/zitadel/oidc) ⭐ 1,899 | 🐛 33 | 🌐 Go | 📅 2026-10-02 - OpenID Connect Library (client and server) for Go
+* [OIDC](https://github.com/zitadel/oidc) ⭐ 1,900 | 🐛 33 | 🌐 Go | 📅 2026-10-02 - OpenID Connect Library (client and server) for Go
 * [goRBAC](https://github.com/mikespook/gorbac) ⭐ 1,675 | 🐛 4 | 🌐 Go | 📅 2026-07-21 - Lightweight role-based access control implementation in Go.
 * [Topaz](https://www.topaz.sh) - Fine-grained authorization for cloud-native applications. Combining the best of OPA and Zanzibar
 
 ### <a name="authZ-rust"></a>Rust
 
-* [Cerbos](https://github.com/cerbos/cerbos) ⭐ 4,609 | 🐛 59 | 🌐 Go | 📅 2026-10-02 - Open-source authorization layer with a Rust SDK for RBAC, ABAC, and PBAC policies evaluated at runtime.
+* [Cerbos](https://github.com/cerbos/cerbos) ⭐ 4,609 | 🐛 62 | 🌐 Go | 📅 2026-10-05 - Open-source authorization layer with a Rust SDK for RBAC, ABAC, and PBAC policies evaluated at runtime.
 * [Oso](https://github.com/osohq/oso) ⭐ 3,490 | 🐛 119 | 🌐 Rust | 📅 2025-02-26 - Batteries-included framework for building authorization in your Rust application.
 * [Casbin-Rs](https://github.com/casbin/casbin-rs) ⭐ 1,144 | 🐛 11 | 🌐 Rust | 📅 2026-08-13 - Authorization library that supports access control models like ACL, RBAC, ABAC in Rust.
 
@@ -137,29 +137,29 @@
 
 ### <a name="authZ-java"></a>Java
 
-* [Cerbos](https://github.com/cerbos/cerbos) ⭐ 4,609 | 🐛 59 | 🌐 Go | 📅 2026-10-02 - Open-source authorization layer with a Java SDK for RBAC, ABAC, and PBAC policies evaluated at runtime.
+* [Cerbos](https://github.com/cerbos/cerbos) ⭐ 4,609 | 🐛 62 | 🌐 Go | 📅 2026-10-05 - Open-source authorization layer with a Java SDK for RBAC, ABAC, and PBAC policies evaluated at runtime.
 * [Apache Shiro](https://github.com/apache/shiro) ⭐ 4,460 | 🐛 6 | 🌐 Java | 📅 2026-10-01 - Powerful and easy-to-use Java security framework that performs authentication, authorization, cryptography, and session management.
 * [Oso](https://github.com/osohq/oso) ⭐ 3,490 | 🐛 119 | 🌐 Rust | 📅 2025-02-26 - Batteries-included framework for building authorization in your Java application.
 * [jCasbin](https://github.com/casbin/jcasbin) ⭐ 2,650 | 🐛 4 | 🌐 Java | 📅 2026-10-03 - Authorization library that supports access control models like ACL, RBAC, ABAC in Java.
-* [pac4j](https://github.com/pac4j/pac4j) ⭐ 2,530 | 🐛 2 | 🌐 Java | 📅 2026-10-03 - Security engine for Java (authentication, authorization, multi-frameworks): OAuth, CAS, SAML, OpenID Connect, LDAP, JWT.
+* [pac4j](https://github.com/pac4j/pac4j) ⭐ 2,531 | 🐛 2 | 🌐 Java | 📅 2026-10-05 - Security engine for Java (authentication, authorization, multi-frameworks): OAuth, CAS, SAML, OpenID Connect, LDAP, JWT.
 * [TOTP Server-Side Library](https://github.com/wstrange/GoogleAuth) ⭐ 1,107 | 🐛 12 | 🌐 Java | 📅 2026-08-14 - TOTP server-side library.
 * [AT\&T XACML](https://github.com/att/xacml-3.0) ⭐ 26 | 🐛 1 | 🌐 Java | 📅 2023-09-05 - XACML 3.0 implementation from AT\&T.
 
 ### <a name="authZ-node"></a>Node.js
 
-* [Cerbos](https://github.com/cerbos/cerbos) ⭐ 4,609 | 🐛 59 | 🌐 Go | 📅 2026-10-02 - Open-source authorization layer with a JavaScript/Node.js SDK for RBAC, ABAC, and PBAC policies evaluated at runtime.
+* [Cerbos](https://github.com/cerbos/cerbos) ⭐ 4,609 | 🐛 62 | 🌐 Go | 📅 2026-10-05 - Open-source authorization layer with a JavaScript/Node.js SDK for RBAC, ABAC, and PBAC policies evaluated at runtime.
 * [Oso](https://github.com/osohq/oso) ⭐ 3,490 | 🐛 119 | 🌐 Rust | 📅 2025-02-26 - Batteries-included framework for building authorization in your Node.js application.
-* [Node-Casbin](https://github.com/casbin/node-casbin) ⭐ 2,917 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-09 - Authorization library that supports access control models like ACL, RBAC, ABAC in Node.js.
-* [accesscontrol](https://github.com/onury/accesscontrol) ⭐ 2,332 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-03 - Role and attribute-based access control for Node.js.
+* [Node-Casbin](https://github.com/casbin/node-casbin) ⭐ 2,918 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-09 - Authorization library that supports access control models like ACL, RBAC, ABAC in Node.js.
+* [accesscontrol](https://github.com/onury/accesscontrol) ⭐ 2,333 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-03 - Role and attribute-based access control for Node.js.
 * [RBAC](https://github.com/CherryProjects/rbac) ⭐ 1,006 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-28 - Hierarchical role-based access control for Node.js.
-* [pundit-ts](https://github.com/fatihky/pundit-ts) ⭐ 98 | 🐛 1 | 🌐 TypeScript | 📅 2025-10-22 - Fully type-safe authorization library inspired by awesome [pundit](https://github.com/varvet/pundit) ⭐ 8,521 | 🐛 14 | 🌐 Ruby | 📅 2026-08-28 gem. Can be used for RBAC, ABAC access control models or any other model you wish.
+* [pundit-ts](https://github.com/fatihky/pundit-ts) ⭐ 98 | 🐛 1 | 🌐 TypeScript | 📅 2025-10-22 - Fully type-safe authorization library inspired by awesome [pundit](https://github.com/varvet/pundit) ⭐ 8,522 | 🐛 14 | 🌐 Ruby | 📅 2026-08-28 gem. Can be used for RBAC, ABAC access control models or any other model you wish.
 * [ABAC](https://github.com/vovantics/abac) ⭐ 29 | 🐛 0 | 🌐 JavaScript | 📅 2014-03-04 - Attribute-based access control for Node.js.
 * [Stack Auth](https://stack-auth.com) - Open-source authN & authZ for modern web apps, comes with pre-built components for Next.js.
 
 ### <a name="authZ-php"></a>PHP
 
-* [laravel-permission](https://github.com/spatie/laravel-permission) ⭐ 12,969 | 🐛 4 | 🌐 PHP | 📅 2026-09-04 - Allows you to manage user permissions and roles in a database.
-* [Cerbos](https://github.com/cerbos/cerbos) ⭐ 4,609 | 🐛 59 | 🌐 Go | 📅 2026-10-02 - Open-source authorization layer with a PHP SDK for RBAC, ABAC, and PBAC policies evaluated at runtime.
+* [laravel-permission](https://github.com/spatie/laravel-permission) ⭐ 12,970 | 🐛 4 | 🌐 PHP | 📅 2026-09-04 - Allows you to manage user permissions and roles in a database.
+* [Cerbos](https://github.com/cerbos/cerbos) ⭐ 4,609 | 🐛 62 | 🌐 Go | 📅 2026-10-05 - Open-source authorization layer with a PHP SDK for RBAC, ABAC, and PBAC policies evaluated at runtime.
 * [PHP-Casbin](https://github.com/php-casbin/php-casbin) ⭐ 1,341 | 🐛 0 | 🌐 PHP | 📅 2026-10-03 - Authorization library that supports access control models like ACL, RBAC, ABAC in PHP.
 * [PHP-RBAC](https://github.com/OWASP/rbac) ⭐ 435 | 🐛 59 | 🌐 PHP | 📅 2024-04-19 - Authorization library for PHP which provides developers with NIST Level 2 hierarchical role-based access control.
 * [php-abac](https://github.com/Kilix/php-abac) ⭐ 98 | 🐛 15 | 🌐 PHP | 📅 2019-07-23 - Attribute-based access control library.
@@ -169,28 +169,28 @@
 
 ### <a name="authZ-python"></a>Python
 
-* [Cerbos](https://github.com/cerbos/cerbos) ⭐ 4,609 | 🐛 59 | 🌐 Go | 📅 2026-10-02 - Open-source authorization layer with a Python SDK for RBAC, ABAC, and PBAC policies evaluated at runtime.
+* [Cerbos](https://github.com/cerbos/cerbos) ⭐ 4,609 | 🐛 62 | 🌐 Go | 📅 2026-10-05 - Open-source authorization layer with a Python SDK for RBAC, ABAC, and PBAC policies evaluated at runtime.
 * [Oso](https://github.com/osohq/oso) ⭐ 3,490 | 🐛 119 | 🌐 Rust | 📅 2025-02-26 - Batteries-included framework for building authorization in your Python application.
 * [PyCasbin](https://github.com/casbin/pycasbin) ⭐ 1,771 | 🐛 2 | 🌐 Python | 📅 2026-10-03 - Authorization library that supports access control models like ACL, RBAC, ABAC in Python.
-* [Flask-RBAC](https://github.com/shonenada/flask-rbac) ⭐ 233 | 🐛 15 | 🌐 Python | 📅 2026-02-20 - Adds RBAC support to [Flask](https://github.com/pallets/flask) ⭐ 74,851 | 🐛 4 | 🌐 Python | 📅 2026-09-08.
+* [Flask-RBAC](https://github.com/shonenada/flask-rbac) ⭐ 233 | 🐛 15 | 🌐 Python | 📅 2026-02-20 - Adds RBAC support to [Flask](https://github.com/pallets/flask) ⭐ 74,889 | 🐛 4 | 🌐 Python | 📅 2026-09-08.
 * [Vakt](https://github.com/kolotaev/vakt) ⭐ 194 | 🐛 8 | 🌐 Python | 📅 2024-04-02 - Attribute-based access control (ABAC) SDK for Python.
 * [casbin-fastapi-decorator](https://github.com/Neko1313/casbin-fastapi-decorator) ⭐ 8 | 🐛 3 | 🌐 Python | 📅 2026-08-20 - Decorator-based authorization for FastAPI using PyCasbin, providing per-route permissions with no middleware and support for JWT, async SQLAlchemy, and Casdoor.
 
 ### <a name="authZ-ruby"></a>Ruby
 
-* [Pundit](https://github.com/varvet/pundit) ⭐ 8,521 | 🐛 14 | 🌐 Ruby | 📅 2026-08-28 - Minimal authorization through OO design and pure Ruby classes.
-* [CanCanCan](https://github.com/CanCanCommunity/cancancan) ⭐ 5,681 | 🐛 92 | 🌐 Ruby | 📅 2026-09-08 - Authorization for Ruby on Rails.
-* [Cerbos](https://github.com/cerbos/cerbos) ⭐ 4,609 | 🐛 59 | 🌐 Go | 📅 2026-10-02 - Open-source authorization layer with a Ruby SDK for RBAC, ABAC, and PBAC policies evaluated at runtime.
+* [Pundit](https://github.com/varvet/pundit) ⭐ 8,522 | 🐛 14 | 🌐 Ruby | 📅 2026-08-28 - Minimal authorization through OO design and pure Ruby classes.
+* [CanCanCan](https://github.com/CanCanCommunity/cancancan) ⭐ 5,682 | 🐛 92 | 🌐 Ruby | 📅 2026-09-08 - Authorization for Ruby on Rails.
+* [Cerbos](https://github.com/cerbos/cerbos) ⭐ 4,609 | 🐛 62 | 🌐 Go | 📅 2026-10-05 - Open-source authorization layer with a Ruby SDK for RBAC, ABAC, and PBAC policies evaluated at runtime.
 * [Oso](https://github.com/osohq/oso) ⭐ 3,490 | 🐛 119 | 🌐 Rust | 📅 2025-02-26 - Batteries-included framework for building authorization in your Ruby application.
 * [Casbin](https://github.com/CasbinRuby/casbin-ruby) ⭐ 68 | 🐛 1 | 🌐 Ruby | 📅 2024-05-18 - Authorization library that supports access control models like ACL, RBAC, ABAC in Ruby.
 
 ## AI Agent Auth
 
-* [Composio](https://github.com/ComposioHQ/composio) ⭐ 30,426 | 🐛 106 | 🌐 TypeScript | 📅 2026-10-04 - Hosted integration platform with managed OAuth and tool calling for 1000+ apps.
-* [Nango](https://github.com/NangoHQ/nango) ⭐ 12,506 | 🐛 145 | 🌐 TypeScript | 📅 2026-10-03 - Open-source OAuth and API key handling for 700+ APIs with token refresh and a unified API for agent workloads.
-* [Cerbos](https://github.com/cerbos/cerbos) ⭐ 4,609 | 🐛 59 | 🌐 Go | 📅 2026-10-02 - Open-source, policy-based authorization for AI agents, agentic workflows, and MCP servers, with fine-grained access control and full decision logging at runtime.
-* [Arcade](https://github.com/ArcadeAI/arcade-ai) ⭐ 1,044 | 🐛 23 | 🌐 Python | 📅 2026-10-03 - Tool-calling platform with user approvals and authenticated actions for AI agents.
-* [Gram](https://github.com/speakeasy-api/gram) ⭐ 271 | 🐛 193 | 🌐 Go | 📅 2026-10-03 - Controls agent access to MCPs with role-scoped permissions and audit logging.
+* [Composio](https://github.com/ComposioHQ/composio) ⭐ 30,441 | 🐛 111 | 🌐 TypeScript | 📅 2026-10-05 - Hosted integration platform with managed OAuth and tool calling for 1000+ apps.
+* [Nango](https://github.com/NangoHQ/nango) ⭐ 12,523 | 🐛 146 | 🌐 TypeScript | 📅 2026-10-05 - Open-source OAuth and API key handling for 700+ APIs with token refresh and a unified API for agent workloads.
+* [Cerbos](https://github.com/cerbos/cerbos) ⭐ 4,609 | 🐛 62 | 🌐 Go | 📅 2026-10-05 - Open-source, policy-based authorization for AI agents, agentic workflows, and MCP servers, with fine-grained access control and full decision logging at runtime.
+* [Arcade](https://github.com/ArcadeAI/arcade-ai) ⭐ 1,045 | 🐛 25 | 🌐 Python | 📅 2026-10-04 - Tool-calling platform with user approvals and authenticated actions for AI agents.
+* [Gram](https://github.com/speakeasy-api/gram) ⭐ 271 | 🐛 197 | 🌐 Go | 📅 2026-10-04 - Controls agent access to MCPs with role-scoped permissions and audit logging.
 * [authsome](https://github.com/agentrhq/authsome) ⭐ 93 | 🐛 11 | 🌐 Python | 📅 2026-07-24 - Local-first credential broker for AI agents with an encrypted local vault and HTTPS proxy injection; no hosted service required.
 
 ## Articles
@@ -209,8 +209,8 @@ PR is welcomed.
 
 ## License
 
-This project is licensed under the [CC0-1.0 license](https://github.com/casbin/awesome-auth/blob/master/LICENSE) ⭐ 1,369 | 🐛 4 | 🌐 Go | 📅 2026-09-29.
+This project is licensed under the [CC0-1.0 license](https://github.com/casbin/awesome-auth/blob/master/LICENSE) ⭐ 1,370 | 🐛 4 | 🌐 Go | 📅 2026-09-29.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
